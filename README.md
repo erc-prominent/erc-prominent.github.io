@@ -1,5 +1,7 @@
 # Quickstart guide on adding stuff to the website
 
+> You can put questions, ideas, suggestions etc either in the #erc-prominent channel on Slack or in the "Discussions" tab above.
+
 This repository contains the source code for the ERC PROMINENT website, which is rendered straight from the `master` branch using [Jekyll](https://jekyllrb.com). This is set up to happen automatically, every commit will rebuild the website and deploy it. Deployment will take 1-2 minutes, depending on the amount of pages and a green checkmark will appear if the build is successful.
 
 ## What's in the repository
@@ -21,6 +23,19 @@ I have added the general layout, so all that is left is populating the various p
 
 - `media`: Contains the file for the "Media" page on the website. I've set this up to automatically arrange all files in the `_posts/media` folder in a grid with most recent first, so this can be left alone.
 - `news`: Contains the file for the "News" page on the website. Similar to `media`, this will arrange all files in the `_posts/news` folder. Can be left alone.
+
+## Adding a new post
+If you look at samples already in the `_posts` directory, you'll see that the top of the page contains stuff between `---`. This is called "frontmatter", which tells the theme how to build the site. This has a few things:
+
+- [required] `layout`: can be `"media", "article" or "default"`. Setting this to `"media"` optimises for a media layout (figures, video etc). `"article"` optimises for text wrapping and should be used for mainly text, `"default"` is just a plain template.
+- [optional] `title`: title of the page
+- [required] `categories`: set to `"media"` or `"articles"`
+- [optional] `excerpt`: description of the page
+- [optional] `share`: if `true`, adds "share on ..." buttons at the bottom
+- [optional] `image`: has both `teaser` (small image before clicking) and `feature` (big image on top of the page). You can just use the name of the image, this will default to the `images` folder.
+
+This has more optional stuff as well, you can take a look [here](https://mmistakes.github.io/jekyll-theme-skinny-bones/getting-started/#site-setup) (scroll down a bit to "posts") if you're interested.
+
 
 ## How to locally preview the website before pushing
 It's a good idea to first render the website locally before you push to the `master` branch, as to avoid committing breaking changes. You will need [Jekyll](https://jekyllrb.com) for this, which uses Ruby. See [this page](https://jekyllrb.com/docs/installation/) for installation instructions and prerequisites. Normally both macOS and Linux should have Ruby distributions by default so you should be good here. If this is not the case for some reason, the instructions are quite straightforward and shouldn't be much work.
