@@ -20,14 +20,14 @@ image:
     </p>
   </div>
 
-	<div class="tile">
-	  <h2 class="post-title">State-of-the-art tools</h2>
-	  <p class="post-excerpt">
-    Our grid-adaptive, massively parallel software <a href="amrvac.org">MPI-AMRVAC</a> allows us to identify and predict
+  <div class="tile">
+    <h2 class="post-title">State-of-the-art tools</h2>
+    <p class="post-excerpt">
+    Our grid-adaptive, massively parallel software <a href="http://amrvac.org">MPI-AMRVAC</a> allows us to identify and predict
     detailed solar prominence and coronal rain aspects at extreme resolutions. These are supplemented with MHD linear
-    eigenspectrum studies using <a href="legolas.science">Legolas</a>, our new, modern linear MHD solver.
+    eigenspectrum studies using <a href="https://legolas.science">Legolas</a>, our new, modern linear MHD solver.
     </p>
-	</div>
+  </div>
 
   <div class="tile">
     <h2 class="post-title">Team effort</h2>
