@@ -1,9 +1,10 @@
 ---
 layout: article
-title: "Presentation"
+title: "Post template"
 categories: articles
-excerpt: "Can be used for presentations, for example"
+excerpt: "Template for posts"
 author:
 image:
   teaser: flare.jpg
+  feature: prominent_header.png
 ---
