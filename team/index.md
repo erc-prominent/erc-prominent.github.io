@@ -1,5 +1,6 @@
 ---
 layout: article
+title: Meet the team
 excerpt: "People working on the ERC PROMINENT project"
 share: false
 ---
