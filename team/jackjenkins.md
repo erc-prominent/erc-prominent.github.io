@@ -31,7 +31,7 @@ The associated paper can be found online at: [https://www.aanda.org/articles/aa/
 
 ![](/images/field_aligned_test.png)
 
-Along these lines, yt-project has a number of tools that have already been built in a general way. Of particular interest to me is the use of ray tracing to synthesise the appearance of our simulations in ways that can be directly compared to observations. Afterall, theory remains theory until proven otherwise. As such, I have implemented a series of synthetic approaches into the yt framework that are currently limited to: h-alpha and the SDO/AIA passbands.
+Along these lines, yt-project has a number of tools that have already been built in a general way. Of particular interest to me is the use of ray tracing to synthesise the appearance of our simulations in ways that can be directly compared to observations. Afterall, theory remains theory until proven otherwise. As such, I have implemented a series of synthetic approaches into the yt framework that are currently limited to: h-alpha and the SDO/AIA passbands. This builds on the work previously completed by Heinzel et al. (2015), Zhao et al. (2018), and Claes & Keppens (2020).
 
 ![](/images/filament_appearance_disk.gif)
 
