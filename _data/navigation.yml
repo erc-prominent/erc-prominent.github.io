@@ -10,6 +10,10 @@
   excerpt: "Latest news related to the PROMINENT project"
   image:
 
+- title: Publications
+  url: /publications/
+  excerpt: "Publications related to the PROMINENT project"
+
 - title: Media
   url: /media/
   excerpt: "Media archive with various posts and gallery"
