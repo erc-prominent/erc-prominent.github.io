@@ -23,7 +23,7 @@ share: false
     <a href="jackjenkins"><img src="{{ site.url }}/images/bio-photo.jpg"></a>
   </li>
 
-  Jack's info can go here, replace above link with bio photo
+  2.5 & 3D formation, strucutre, and evolution of solar prominence condensations.
 
 </ul>
 
