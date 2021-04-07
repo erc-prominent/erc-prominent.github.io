@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: article-aligned
 title: "Launching Legolas"
 categories: articles
 excerpt: "Read up on the launch of the new Legolas code, a novel tool for MHD spectroscopy."

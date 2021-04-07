@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: article-aligned
 title: Background
 excerpt: "General information, overarching goals and ambitions"
 share: false
