@@ -23,7 +23,7 @@ share: false
     <a href="jackjenkins"><img src="{{ site.url }}/images/bio-photo.jpg"></a>
   </li>
 
-  2.5 & 3D formation, strucutre, and evolution of solar prominence condensations.
+  2.5 & 3D formation, structure, and evolution of solar prominence condensations.
 
 </ul>
 
@@ -34,7 +34,15 @@ share: false
     <a href="nielsclaes"><img src="{{ site.url }}/images/bio-photo.jpg"></a>
   </li>
 
-  Niels's info can go here, replace above link with bio photo
+  Main developer of the
+  <a href="https://github.com/n-claes/legolas" style="text-decoration:underline;">
+    Legolas
+  </a>
+  code. <br>
+  
+  Largely focused on MHD spectral theory applied to solar atmospheric 
+  configurations, with particular interest in thermal instabilities and prominence 
+  fine structure.
 
 </ul>
 
