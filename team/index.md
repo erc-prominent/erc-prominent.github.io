@@ -35,7 +35,7 @@ share: false
   </li>
 
   Main developer of the
-  <a href="https://github.com/n-claes/legolas" style="text-decoration:underline;">
+  <a href="https://github.com/n-claes/legolas">
     Legolas
   </a>
   code. <br>
