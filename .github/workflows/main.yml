@@ -31,9 +31,8 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: gh-pages
           publish_dir: .
-          keep_files: true
           enable_jekyll: true
-          full_commit_message: "deploy ${{ github.sha }}"
+          full_commit_message: "deploy ${{ github.sha }}: ${{ github.event.head_commit.message }}"
 
 
 
