@@ -6,7 +6,7 @@ excerpt: "MPI-AMRVAC is successfully deployed to study the formation and evoluti
 share: true
 image:
   feature: Jenkins&Keppens_2020_synthesis.png
-  teaser: Jenkins&Keppens_2020_10G.jpg
+  teaser: Jenkins&Keppens_2020_10G_400x250.png
 ---
 
 
