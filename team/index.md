@@ -81,12 +81,15 @@ share: false
 
 
 <ul class="th-grid">
-  <h4 style="text-align:center">Beatrice Braileanu</h4>
+  <h4 style="text-align:center">Beatrice Popescu Braileanu</h4>
   <li>
-    <a href="beatricebraileanu"><img src="{{ site.url }}/images/bio-photo.jpg"></a>
+    <a href="beatricebraileanu"><img src="{{ site.url }}/images/bio-photo-bpb.png"></a>
   </li>
 
-  Beatrice's info can go here, replace above link with bio photo
+  Partial ionization effects and implementation in 
+  <a href="http://amrvac.org">
+    MPI-AMRVAC
+  </a>
 
 </ul>
 
