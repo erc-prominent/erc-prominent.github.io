@@ -4,4 +4,4 @@ title: "Rony Keppens"
 share: false
 ---
 
-member page -- details on what he/she is doing within the project
+Please find info on me and my research on [my personal webpage](https://perswww.kuleuven.be/Rony_Keppens). Feel free to [contact me](mailto:rony.keppens@kuleuven.be).
