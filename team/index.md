@@ -8,10 +8,10 @@ share: false
 <ul class="th-grid">
   <h4 style="text-align:center">Rony Keppens (PI)</h4>
   <li>
-    <a href="ronykeppens"><img src="{{ site.url }}/images/bio-photo.jpg"></a>
+    <a href="ronykeppens"><img src="{{ site.url }}/images/bio-photo-RK.png"></a>
   </li>
 
-  Rony's info can go here, replace above link with bio photo.
+  Rony is proud to lead the team, and is actively researching MHD, developing codes, and applying them to Solar and Prominence-related physics.
 
 </ul>
 
