@@ -20,7 +20,7 @@ share: false
 <ul class="th-grid_right">
   <h4 style="text-align:center">Jack Jenkins</h4>
   <li>
-    <a href="jackjenkins"><img src="{{ site.url }}/images/bio-photo.jpg"></a>
+    <a href="jackjenkins"><img src="{{ site.url }}/images/jack_bio_photo_erc.jpg"></a>
   </li>
 
   2.5 & 3D formation, structure, and evolution of solar prominence condensations.
