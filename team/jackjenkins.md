@@ -2,9 +2,10 @@
 layout: article
 excerpt: "Jack Jenkins"
 share: false
+
 ---
 
-Hello there!
+Hello there! <img src="{{ site.url }}/images/jack_bio_photo_erc.jpg" width="200" alt="My ugly mug" align="right">
 
 On this page I will detail some of the things that I have been doing as a part of the ERC PROMINENT project.
 
@@ -27,11 +28,11 @@ The associated paper can be found online at: [https://www.aanda.org/articles/aa/
 
 
 # 2.
-[https://yt-project.org](yt-project) is an open-source python package perfectly suited for handling the output of the large simmulations that we are undertaking as a part of ERC PROMINENT. One of the bottlenecks encountered when dealing with particularly large simulations are that their file sizes can grow somewhat *extreme*. This renders any attempt for post-processing on a local machine futile in the absence of significant RAM. Instead, yt-project indexes the location of the information within a file for recall *only* when requested. As detailed on the MPI-AMRVAC [www.amrvac.org](website), simulation computation and storage are carried out on a block-by-block basis as a consequence of the adaptive mesh (indexed along a moreton curve). Hence, this lends itself ideally to the yt-project framework wherein not only are post-processing and visualisation applied to the data requested, but also on a block by block basis. This speeds up the read/process/write times up dramatically as the entire simulation, for all saved variables, is not stored within the RAM. It is for this reason and many more (of which I will offload any questions to the yt master himself: [Niels Claes](mailto:niels.claes@kuleuven.be)) that we choose to use yt-project.
+[https://yt-project.org](yt-project) is an open-source python package perfectly suited for handling the output of the large simmulations that we are undertaking as a part of ERC PROMINENT. One of the bottlenecks encountered when dealing with particularly large simulations are that their file sizes can grow somewhat *extreme*. This renders any attempt for post-processing on a local machine futile in the absence of significant RAM. Instead, yt-project indexes the location of the information within a file for recall *only* when requested. As detailed on the MPI-AMRVAC [website](www.amrvac.org), simulation computation and storage are carried out on a block-by-block basis as a consequence of the adaptive mesh (indexed along a moreton curve). Hence, this lends itself ideally to the yt-project framework wherein not only are post-processing and visualisation applied to the data requested, but also on a block by block basis. This speeds up the read/process/write times up dramatically as the entire simulation, for all saved variables, is not stored within the RAM. It is for this reason and many more (of which I will offload any questions to the yt master himself: [Niels Claes](mailto:niels.claes@kuleuven.be)) that we choose to use yt-project.
 
 ![]({{ site.url }}/images/field_aligned_test_thick.png)
 
-Along these lines, yt-project has a number of tools that have already been built in a general way. Of particular interest to me is the use of ray tracing to synthesise the appearance of our simulations in ways that can be directly compared to observations. Afterall, theory remains theory until proven otherwise. As such, I have implemented a series of synthetic approaches into the yt framework that are currently limited to: h-alpha and the SDO/AIA passbands. This builds on the work previously completed by Heinzel et al. (2015), Zhao et al. (2018), and Claes & Keppens (2020).
+Along these lines, yt-project has a number of tools that have already been built in a general way. Of particular interest to me is the use of ray tracing to synthesise the appearance of our simulations in ways that can be directly compared to observations. Afterall, theory remains theory until proven otherwise. As such, I have implemented a series of synthetic approaches into the yt framework that are currently limited to: h-alpha and the SDO/AIA passbands. This builds on the work previously completed by [Heinzel et al. (2015)](https://ui.adsabs.harvard.edu/abs/2015A%26A...579A..16H/abstract), [Zhao et al. (2018)](https://ui.adsabs.harvard.edu/abs/2019ApJ...872..190Z/abstract), and [Claes et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020A%26A...636A.112C/abstract).
 
 ![]({{ site.url }}/images/filament_appearance_disk.gif)
 
