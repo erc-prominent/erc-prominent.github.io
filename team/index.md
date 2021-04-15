@@ -39,9 +39,9 @@ share: false
     Legolas
   </a>
   code. <br>
-  
-  Largely focused on MHD spectral theory applied to solar atmospheric 
-  configurations, with particular interest in thermal instabilities and prominence 
+
+  Largely focused on MHD spectral theory applied to solar atmospheric
+  configurations, with particular interest in thermal instabilities and prominence
   fine structure.
 
 </ul>
@@ -53,7 +53,13 @@ share: false
     <a href="jordidejonghe"><img src="{{ site.url }}/images/bio-photo.jpg"></a>
   </li>
 
-  Jordi's info can go here, replace above link with bio photo
+  Waves and instabilities in MHD and multi-fluid descriptions. <br>
+
+  Co-developer of the
+  <a href="https://github.com/n-claes/legolas">
+    Legolas
+  </a>
+  code.
 
 </ul>
 
@@ -86,7 +92,7 @@ share: false
     <a href="beatricebraileanu"><img src="{{ site.url }}/images/bio-photo-bpb.png"></a>
   </li>
 
-  Partial ionization effects and implementation in 
+  Partial ionization effects and implementation in
   <a href="http://amrvac.org">
     MPI-AMRVAC
   </a>
