@@ -100,7 +100,7 @@ share: false
     <a href="jorishermans"><img src="{{ site.url }}/images/bio-photo.jpg"></a>
   </li>
 
-  Joris's info can go here, replace above link with bio photo
+  Solar tornadoes and thermal instability
 
 </ul>
 
