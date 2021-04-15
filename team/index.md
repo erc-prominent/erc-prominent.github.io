@@ -78,7 +78,7 @@ share: false
 <ul class="th-grid_right">
   <h4 style="text-align:center">Wenzhi Ruan</h4>
   <li>
-    <a href="wenzhiruan"><img src="{{ site.url }}/images/bio-photo.jpg"></a>
+    <a href="wenzhiruan"><img src="{{ site.url }}/images/wenzhi_bio_photo.jpg"></a>
   </li>
 
   Impulsive phase of solar flares and coronal rains in gradual phase.
