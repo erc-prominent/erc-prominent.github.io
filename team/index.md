@@ -114,10 +114,10 @@ share: false
 <ul class="th-grid">
   <h4 style="text-align:center">Xiaohong Li</h4>
   <li>
-    <a href="xiaohongli"><img src="{{ site.url }}/images/bio-photo.jpg"></a>
+   <a href="xiaohongli"><img src="{{ site.url }}/images/bio-photo-Xiaohong.jpg" width="140"></a>
   </li>
 
-  Xiaohong's info can go here, replace above link with bio photo
+  2.5 & 3D simulation of coronal rain.
 
 </ul>
 
