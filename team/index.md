@@ -97,7 +97,7 @@ share: false
 <ul class="th-grid_right">
   <h4 style="text-align:center">Joris Hermans</h4>
   <li>
-    <a href="jorishermans"><img src="{{ site.url }}/images/bio-photo.jpg"></a>
+    <a href="jorishermans"><img src="{{ site.url }}/images/bio-photo-Joris.jpg" width="140" ></a>
   </li>
 
   Solar tornadoes and thermal instability
