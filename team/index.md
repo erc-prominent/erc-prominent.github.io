@@ -81,6 +81,7 @@ share: false
     <a href="wenzhiruan"><img src="{{ site.url }}/images/bio-photo.jpg"></a>
   </li>
 
+  Impulsive phase of solar flares and coronal rains in gradual phase.
   Wenzhi's info can go here, replace above link with bio photo
 
 </ul>
