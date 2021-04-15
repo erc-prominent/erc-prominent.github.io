@@ -31,7 +31,7 @@ share: false
 <ul class="th-grid">
   <h4 style="text-align:center">Niels Claes</h4>
   <li>
-    <a href="nielsclaes"><img src="{{ site.url }}/images/bio-photo.jpg"></a>
+    <a href="nielsclaes"><img src="{{ site.url }}/images/bio-photo-NC.png"></a>
   </li>
 
   Main developer of the
