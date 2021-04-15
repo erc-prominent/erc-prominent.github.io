@@ -70,7 +70,7 @@ share: false
     <a href="veronikajercic"><img src="{{ site.url }}/images/bio-photo.jpg"></a>
   </li>
 
-  Veronika's info can go here, replace above link with bio photo
+ Oscillations of solar prominences with multi-threaded structure. 
 
 </ul>
 
