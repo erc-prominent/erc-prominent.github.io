@@ -120,3 +120,14 @@ share: false
   Xiaohong's info can go here, replace above link with bio photo
 
 </ul>
+
+
+<ul class="th-grid_right">
+  <h4 style="text-align:center">Jean-Baptiste Durrive (Postdoc)</h4>
+  <li>
+    <a href="jbdurrive"><img src="{{ site.url }}/images/bio-photo-JB.jpg"></a>
+  </li>
+
+  Modeling astrophysical fluids (i) analytically: developping a <a href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.496.3015D/abstract"> parametric model </a> for MHD turbulence on one side, and working on MHD spectral theory on the other, (ii) numerically: developping a Python code for the aforementioned turbulence model.
+
+</ul>
