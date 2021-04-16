@@ -1,5 +1,5 @@
 ---
-layout: media
+layout: media-aligned
 title: "2.5D Prominence formation"
 categories: media
 excerpt: "MPI-AMRVAC is successfully deployed to study the formation and evolution of a prominence in a 2.5D translationally-invariant setup."
