@@ -9,6 +9,8 @@ share: false
 
 | Reference | Links |
 |:--------- |:----- |
+| _Two-fluid treatment of whistling behaviour and the warm Appleton-Hartree extension_, J. De Jonghe & R. Keppens, 2021, JGR: Space physics **126**, e2020JA028953 (24pp) | [Full paper](https://doi.org/10.1029/2020JA028953) [ArXiv](https://arxiv.org/pdf/2104.05275.pdf)  | 
+| _Transition region adaptive conduction (TRAC) in multidimensional magnetohydrodynamic simulations_, Y-H. Zhou, W. Ruan, C. Xia  & R. Keppens, 2021, Astronomy & Astrophysics **648**, A29 (12pp) | [Full paper](https://doi.org/10.1051/0004-6361/202040254) [ArXiv](https://arxiv.org/pdf/2102.07549.pdf)  | 
 | _Prominence formation by levitation-condensation at extreme resolution_, J.M. Jenkins & R. Keppens, 2021, Astronomy & Astrophysics **646**, A134 (20pp) | [Full paper](https://doi.org/10.1051/0004-6361/202039630) [ArXiv](https://arxiv.org/pdf/2011.13428.pdf)  | 
 | _MPI-AMRVAC: a parallel, grid-adaptive PDE toolkit_, R. Keppens, J. Teunissen, C. Xia & O. Porth, 2021, Computers & Mathematics With Applications **81**, 316-333 | [Full paper](https://doi.org/10.1016/j.camwa.2020.03.023) [ArXiv](https://arxiv.org/pdf/2004.03275.pdf)  | 
 | _Magnetohydrodynamic Nonlinearities in Sunspot Atmospheres: Chromospheric Detections of Intermediate Shocks_, S.J. Houston, D.B. Jess, R. Keppens, M. Stangalini, P.H. Keys, S.D.T. Grant, S. Jafarzadeh, L.M. McFetridge, M. Murabito, I. Ermolli & F. Giorgi, 2020, ApJ **892**, 49 (14pp) | [Full paper](https://doi.org/10.3847/1538-4357/ab7a90) [Lirias](https://limo.libis.be/primo-explore/fulldisplay?docid=LIRIAS3022999&context=L&vid=Lirias&search_scope=Lirias&tab=default_tab&lang=en_US)  | 
