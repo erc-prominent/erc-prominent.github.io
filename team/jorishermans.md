@@ -17,4 +17,19 @@ For details see Hermans J. & Keppens R., 2021, Submitted to A&A. More will be ex
 <iframe width="893" height="734" src="https://www.youtube.com/embed/obarJg1HV2A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+
+-In the proceedings paper accompanying the poster presentation at the EPS 2021 conference, we investigate the influence of the numerical implementation of a cooling curve, i.e. piece-wise power law vs interpolated table, on the condensation formation process. For this end we created to piece-wise power law fits to the SPEX_DM curve (Schure et. al 2009). The fits are shown in the next figure. We have one rough fit with seven segments and one fine fit with 14 segments.
+
+<img src="{{ site.url }}/images/SPEX_DM_cc_fits.png" width="420" alt="SPEX_DM_fits">
+
+
+The analytic formulae for the rough and fine fits to the SPEX_DM curve, respectively, are given below.
+
+![]({{ site.url }}/images/SPEX_DM_roughfit.png)
+
+![]({{ site.url }}/images/SPEX_DM_finefit.png)
+
+
+
+
 -Setting up simulations of thermal instability in rotating magnetic structures, which relate to solar tornadoes
