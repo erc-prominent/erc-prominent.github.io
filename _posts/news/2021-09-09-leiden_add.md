@@ -6,7 +6,7 @@ excerpt: "MHD workshop at Leiden Lorentz Center."
 modified: 2021-09-09
 share: false
 image:
-  teaser: leidenPoster.png
+  teaser: posterLeiden.png
 ---
 
 The ERC advanced project PROMINENT, will feature prominently at the upcoming Leiden Lorentz Centre workshop on
