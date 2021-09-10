@@ -52,3 +52,8 @@ hitherto uninvestigated connections between thermal instabilities and the role t
 I am also currently maintaining and developing the code even further, in close collaboration with [Jordi De Jonghe](../jordidejonghe),
 such that the workload is balanced between the both of us. I am mainly working on the internal code structure, testing framework and thermal conduction extensions,
 with Jordi running point on the viscosity and Hall additions to the Legolas physics framework.
+
+
+### 3. Applying Legolas to realistic models
+In recent work we applied Legolas to a fully realistic solar atmosphere model, yielding a self-consistent stratified atmosphere on which we performed a detailed eigenspectrum analysis. Here we showed that our solar models indicate a great variety of linear pathways to form condensations. Knowing that the solar atmosphere itself can have many interacting (linear) waves and instabilities at play, modern nonlinear simulations may benefit greatly from the full knowledge of all linear instabilities of a given equilibrium state. More information about this
+work can be found [here]({{ site.url }}/articles/solaratmo_spec/).
