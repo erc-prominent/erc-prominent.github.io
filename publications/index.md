@@ -9,6 +9,7 @@ share: false
 
 | Reference | Links |
 |:--------- |:----- |
+| _Magnetic Island Merging: Two-dimensional MHD simulation and Test-particle modeling_, X. Zhao, F. Bacchini & R. Keppens, 2021, Phys. Plasmas **28**, 092113 (25pp) | [Full paper](https://doi.org/10.1063/5.0058326) [ArXiv](https://arxiv.org/pdf/2108.13508.pdf)  | 
 | _Effect of optically thin cooling curves on condensation formation: Case study using thermal instability_, J. Hermans & R. Keppens, 2021, Astronomy & Astrophysics ****, accepted | [Full paper](https://doi.org/10.1051/0004-6361/202140665) [ArXiv](https://arxiv.org/pdf/2107.07569.pdf)  | 
 | _Effects of ambipolar diffusion on waves in the solar chromosphere_, B. Popescu Braileanu & R. Keppens, 2021, Astronomy & Astrophysics ****, accepted | [Full paper](https://doi.org/10.1051/0004-6361/202140872) [ArXiv](https://arxiv.org/pdf/2105.10285.pdf)  | 
 | _An MHD spectral theory approach to Jeans magnetized gravitational instability_, J.-B. Durrive, R. Keppens & M. Langer, 2021, MNRAS **506**, 2336-2361 | [Full paper](https://doi.org/10.1093/mnras/stab1726) [Lirias](https://lirias2.kuleuven.be/viewobject.html?cid=1&id=3498148) [ArXiv](https://arxiv.org/pdf/2106.07681.pdf)  | 
