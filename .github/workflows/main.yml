@@ -3,6 +3,9 @@ name: site
 on:
   push:
     branches: [ master ]
+  schedule:
+    # minute hour monthday month weekday, so this runs every day at 20:15 UTC
+    - cron: "15 20 * * *"
 
 jobs:
   deploy:
@@ -33,6 +36,3 @@ jobs:
           publish_dir: .
           enable_jekyll: true
           full_commit_message: "deploy ${{ github.sha }}: ${{ github.event.head_commit.message }}"
-
-
-
