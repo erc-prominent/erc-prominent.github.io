@@ -1,8 +1,10 @@
 # Quickstart guide on adding stuff to the website
 
+[![site](https://github.com/erc-prominent/erc-prominent.github.io/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/erc-prominent/erc-prominent.github.io/actions/workflows/main.yml)
+
 > You can put questions, ideas, suggestions etc either in the #erc-prominent channel on Slack or in the "Discussions" tab above.
 
-This repository contains the source code for the ERC PROMINENT website, which is rendered straight from the `gh-pages` branch 
+This repository contains the source code for the ERC PROMINENT website, which is rendered straight from the `gh-pages` branch
 using [Jekyll](https://jekyllrb.com). The general framework is based on the [Skinny Bones](https://mmistakes.github.io/jekyll-theme-skinny-bones/) theme.
 The website build process is set up to happen automatically, every commit will rebuild the website and deploy it. Deployment will take 1-2 minutes, depending on the amount of pages,
 a green checkmark will appear if the build is successful. **Note**: _when you push, it can take a minute or two before your changes are visible since Jekyll needs to build the pages.
@@ -25,7 +27,7 @@ The first step is cloning the repository:
 ```
 git clone https://github.com/erc-prominent/erc-prominent.github.io.git
 ```
-Next you can start editing the relevant pages, explained in the next section. 
+Next you can start editing the relevant pages, explained in the next section.
 If you already cloned the repository before you probably want to fetch the latest updates from the repository:
 ```
 cd erc-prominent.github.io
@@ -80,8 +82,8 @@ Everything below the `---` line can be edited using regular markdown syntax.
 
 ### Publications
 The publications page can be found in `publications/index.md`, which will be empty when you try a local build. The publication list is generated automatically after every commit
-using the `publications/generate_publist.py` script which fetches all relevant papers related to the project from the web, parses them and puts them in a table. 
-There is probably no need to edit the `index.md` file, but if you do so only do it above the "do not edit" line (everything below will be replaced). 
+using the `publications/generate_publist.py` script which fetches all relevant papers related to the project from the web, parses them and puts them in a table.
+There is probably no need to edit the `index.md` file, but if you do so only do it above the "do not edit" line (everything below will be replaced).
 
 ### Media
 Can be found in `media/index.md`, uses the exact same setup as the News tab. The only difference here is that items should be added to the `_posts/media` folder, and set
@@ -94,10 +96,10 @@ Every member here has his/her own page in the same folder, which you can use to 
 A small bio photo would also be quite nice, you can put these in the `images` folder.
 
 ## Preview before pushing
-It's a good idea to first render the website locally before you push to the repository, since in some cases you spot typos/broken links/broken images only when you see the 
+It's a good idea to first render the website locally before you push to the repository, since in some cases you spot typos/broken links/broken images only when you see the
 content rendered. You don't _have_ to do this, but it's quite convenient and avoids you having to push multiple things in rapid succession to tweak things.
-You will need [Jekyll](https://jekyllrb.com) for this, which uses Ruby. See [this page](https://jekyllrb.com/docs/installation/) for installation instructions and prerequisites. 
-Normally both macOS and Linux should have Ruby distributions by default, so you should be good here. 
+You will need [Jekyll](https://jekyllrb.com) for this, which uses Ruby. See [this page](https://jekyllrb.com/docs/installation/) for installation instructions and prerequisites.
+Normally both macOS and Linux should have Ruby distributions by default, so you should be good here.
 If this is not the case for some reason, the instructions are quite straightforward and shouldn't be much work.
 
 Once you have Ruby, install Jekyll through
@@ -109,7 +111,7 @@ That's it, now cd into the repository, build and view:
 cd erc_prominent.github.io
 bundle exec jekyll serve
 ```
-Open your browser at `http://127.0.0.1:4000` to view the locally built site. 
+Open your browser at `http://127.0.0.1:4000` to view the locally built site.
 You can keep this command running and edit further, as long as you're serving you'll see your changes in real time by refreshing the page.
 
 ## Some convenient shortcuts
