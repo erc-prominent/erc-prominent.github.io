@@ -9,8 +9,9 @@ share: false
 
 | Reference | Links |
 |:--------- |:----- |
+| _Coronal rain in randomly heated arcades_, X. Li, R. Keppens & Y. Zhou, 2022, ApJ ****, accepted | [ArXiv](https://arxiv.org/pdf/2112.02702.pdf)  | 
 | _Multi-threaded prominence oscillations triggered by a coronal shock wave_, V. Jercic, R. Keppens & Y. Zhou, 2021, Astronomy & Astrophysics ****, accepted | [Full paper](https://doi.org/10.1051/0004-6361/202142127) [ArXiv](https://arxiv.org/pdf/2111.09019.pdf)  | 
-| _Radiation-hydrodynamics with MPI-AMRVAC. Flux-limited diffusion_, N. Moens, J.O. Sundqvist, I. El Mellah, L. Poniatowski, J. Teunissen & R. Keppens, 2021, Astronomy & Astrophysics ****, accepted | [Full paper](https://doi.org/10.1051/0004-6361/202141023) [ArXiv](https://arxiv.org/pdf/2104.03968.pdf)  | 
+| _Radiation-hydrodynamics with MPI-AMRVAC. Flux-limited diffusion_, N. Moens, J.O. Sundqvist, I. El Mellah, L. Poniatowski, J. Teunissen & R. Keppens, 2022, Astronomy & Astrophysics **657**, A81 (14pp) | [Full paper](https://doi.org/10.1051/0004-6361/202141023) [ArXiv](https://arxiv.org/pdf/2104.03968.pdf)  | 
 | _When Hot Meets Cold: Post-flare Coronal Rain_, W. Ruan, Y. Zhou & R. Keppens, 2021, ApJL **920**, L15 (8pp) | [Full paper](https://doi.org/10.3847/2041-8213/ac27b0) [ArXiv](https://arxiv.org/pdf/2109.11873.pdf)  | 
 | _Magnetohydrodynamic Spectroscopy of a Non-adiabatic Solar Atmosphere_, N. Claes & R. Keppens, 2021, Sol. Phys. **296**, 143 (24pp) | [Full paper](https://doi.org/10.1007/s11207-021-01894-2) [ArXiv](https://arxiv.org/pdf/2108.09467.pdf)  | 
 | _Data-constrained Magnetohydrodynamic Simulation of a Long-duration Eruptive Flare_, Y. Guo, Z. Zhong, M.D. Ding, P.F. Chen, C. Xia & R. Keppens, 2021, ApJ **919**, id.39 (13pp) | [Full paper](https://doi.org/10.3847/1538-4357/ac10c8) [ArXiv](https://arxiv.org/pdf/2106.15080.pdf)  | 
