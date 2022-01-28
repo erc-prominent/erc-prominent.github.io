@@ -12,12 +12,12 @@ share: false
   <h4 style="text-align:center">Rony Keppens (PI)</h4>
 
   Rony is proud to lead the team, and is actively researching MHD, developing codes, and applying them to Solar and Prominence-related physics.
-
 </ul>
 
 ***
 
 <h2 style="text-align:center">Postdocs</h2>
+
 
 <ul class="th-grid_right">
   <li>
@@ -27,10 +27,22 @@ share: false
 
   <em>Involvement period:</em> 2020/04/01 - present <br>
   2.5 & 3D formation, structure, and evolution of solar prominence condensations.
-
 </ul>
 
+
 <ul class="th-grid">
+  <li>
+    <a href="valeriialiakh"><img src="{{ site.url }}/images/bio-photo.jpg" width="140"></a>
+  </li>
+  <h4 style="text-align:center">Valeriia Liakh</h4>
+
+  <em>Involvement period:</em> date - present <br>
+
+  <!-- what you're working on -->
+</ul>
+
+
+<ul class="th-grid_right">
   <li>
    <a href="xiaohongli"><img src="{{ site.url }}/images/bio-photo-Xiaohong.jpg" width="140"></a>
   </li>
@@ -39,10 +51,10 @@ share: false
   <em>Involvement period:</em> 2020/10/28 - present <br>
 
   2.5 & 3D simulation of coronal rain.
-
 </ul>
 
-<ul class="th-grid_right">
+
+<ul class="th-grid">
   <li>
     <a href="beatricebraileanu"><img src="{{ site.url }}/images/bio-photo-bpb.png" width="140"></a>
   </li>
@@ -54,10 +66,10 @@ share: false
   <a href="http://amrvac.org">
     MPI-AMRVAC
   </a>
-
 </ul>
 
-<ul class="th-grid">
+
+<ul class="th-grid_right">
   <li>
     <a href="wenzhiruan"><img src="{{ site.url }}/images/wenzhi_bio_photo.jpg" width="140"></a>
   </li>
@@ -66,12 +78,12 @@ share: false
   <em>Involvement period:</em> 2020/02/01 - 2022/01/31 <br>
 
   Impulsive phase of solar flares and coronal rains in gradual phase.
-
 </ul>
 
 ***
 
 <h2 style="text-align:center">PhDs</h2>
+
 
 <ul class="th-grid_right">
   <li>
@@ -90,8 +102,8 @@ share: false
   Largely focused on MHD spectral theory applied to solar atmospheric
   configurations, with particular interest in thermal instabilities and prominence
   fine structure.
-
 </ul>
+
 
 <ul class="th-grid">
   <li>
@@ -102,8 +114,8 @@ share: false
   <em>Involvement period:</em> 2019/10/01 - present <br>
 
   Solar tornadoes and thermal instability
-
 </ul>
+
 
 <ul class="th-grid_right">
   <li>
@@ -114,8 +126,8 @@ share: false
   <em>Involvement period:</em> 2020/01/01 - 2020/12/31 <br>
 
  Oscillations of solar prominences with multi-threaded structure.
-
 </ul>
+
 
 <ul class="th-grid">
   <li>
@@ -132,5 +144,4 @@ share: false
     Legolas
   </a>
   code.
-
 </ul>
