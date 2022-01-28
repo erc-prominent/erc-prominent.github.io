@@ -24,8 +24,8 @@ share: false
     <a href="jackjenkins"><img src="{{ site.url }}/images/jack_bio_photo_erc.jpg"></a>
   </li>
   <h4 style="text-align:center">Jack Jenkins</h4>
-  
-  <em>Involvement period:</em> 2020-03-01-date <br>
+
+  <em>Involvement period:</em> 2020/04/01 - present <br>
   2.5 & 3D formation, structure, and evolution of solar prominence condensations.
 
 </ul>
@@ -35,8 +35,8 @@ share: false
    <a href="xiaohongli"><img src="{{ site.url }}/images/bio-photo-Xiaohong.jpg" width="140"></a>
   </li>
   <h4 style="text-align:center">Xiaohong Li</h4>
-  
-  <em>Involvement period:</em> date--date <br>
+
+  <em>Involvement period:</em> 2020/10/28 - present <br>
 
   2.5 & 3D simulation of coronal rain.
 
@@ -47,8 +47,8 @@ share: false
     <a href="beatricebraileanu"><img src="{{ site.url }}/images/bio-photo-bpb.png" width="140"></a>
   </li>
   <h4 style="text-align:center">Beatrice Popescu Braileanu</h4>
-  
-  <em>Involvement period:</em> date--date <br>
+
+  <em>Involvement period:</em> 2020/05/01 - 2020/09/30 <br>
 
   Partial ionization effects and implementation in
   <a href="http://amrvac.org">
@@ -62,8 +62,8 @@ share: false
     <a href="wenzhiruan"><img src="{{ site.url }}/images/wenzhi_bio_photo.jpg" width="140"></a>
   </li>
   <h4 style="text-align:center">Wenzhi Ruan</h4>
-  
-  <em>Involvement period:</em> date--date <br>
+
+  <em>Involvement period:</em> 2020/02/01 - 2022/01/31 <br>
 
   Impulsive phase of solar flares and coronal rains in gradual phase.
 
@@ -78,8 +78,8 @@ share: false
     <a href="nielsclaes"><img src="{{ site.url }}/images/bio-photo-NC.png" width="140"></a>
   </li>
   <h4 style="text-align:center">Niels Claes</h4>
-  
-  <em>Involvement period:</em> date--date <br>
+
+  <em>Involvement period:</em> 2020/01/01 - present <br>
 
   Main developer of the
   <a href="https://github.com/n-claes/legolas">
@@ -98,8 +98,8 @@ share: false
     <a href="jorishermans"><img src="{{ site.url }}/images/bio-photo-Joris.jpg" width="140" ></a>
   </li>
   <h4 style="text-align:center">Joris Hermans</h4>
-  
-  <em>Involvement period:</em> date--date <br>
+
+  <em>Involvement period:</em> 2019/10/01 - present <br>
 
   Solar tornadoes and thermal instability
 
@@ -110,10 +110,10 @@ share: false
     <a href="veronikajercic"><img src="{{ site.url }}/images/bio-photo.jpg" width="140"></a>
   </li>
   <h4 style="text-align:center">Veronika Jercic</h4>
-  
-  <em>Involvement period:</em> date--date <br>
 
- Oscillations of solar prominences with multi-threaded structure. 
+  <em>Involvement period:</em> 2020/01/01 - 2020/12/31 <br>
+
+ Oscillations of solar prominences with multi-threaded structure.
 
 </ul>
 
@@ -122,8 +122,8 @@ share: false
     <a href="jordidejonghe"><img src="{{ site.url }}/images/bio-photo.jpg" width="140"></a>
   </li>
   <h4 style="text-align:center">Jordi De Jonghe</h4>
-  
-  <em>Involvement period:</em> date--date <br>
+
+  <em>Involvement period:</em> 2019/09/01 - present <br>
 
   Waves and instabilities in MHD and multi-fluid descriptions. <br>
 
@@ -132,20 +132,5 @@ share: false
     Legolas
   </a>
   code.
-
-</ul>
-
-***
-
-<h2 style="text-align:center">Additional Members</h2>
-
-<ul class="th-grid_right">
-  <li>
-    <a href="jbdurrive"><img src="{{ site.url }}/images/bio-photo-JB.jpg" width="140"></a>
-  </li>
-  <h4 style="text-align:center">Jean-Baptiste Durrive</h4>
-  
-
-  Modeling astrophysical fluids (i) analytically: developping a <a href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.496.3015D/abstract"> parametric model </a> for MHD turbulence on one side, and working on MHD spectral theory on the other, (ii) numerically: developping a Python code for the aforementioned turbulence model.
 
 </ul>
