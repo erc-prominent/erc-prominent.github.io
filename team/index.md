@@ -32,13 +32,13 @@ share: false
 
 <ul class="th-grid">
   <li>
-    <a href="valeriialiakh"><img src="{{ site.url }}/images/bio-photo.jpg" width="140"></a>
+    <a href="valeriialiakh"><img src="{{ site.url }}/images/bio-photo-VL.jpg" width="140"></a>
   </li>
   <h4 style="text-align:center">Valeriia Liakh</h4>
 
-  <em>Involvement period:</em> date - present <br>
+  <em>Involvement period:</em> 2022/01/17 - present <br>
 
-  <!-- what you're working on -->
+  2.5 & 3D simulation of prominence oscillations triggered by external activity.
 </ul>
 
 
