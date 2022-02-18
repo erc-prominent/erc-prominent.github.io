@@ -10,6 +10,7 @@ share: false
 | Reference | Links |
 |:--------- |:----- |
 | _The Super-Alfvenic Rotational Instability in accretion disks about black holes_, Hans Goedbloed & R. Keppens, 2022, ApJ Supplement Series ****, accepted | [ArXiv](https://arxiv.org/pdf/2201.11551.pdf)  | 
+| _Plasmoid-fed prominence formation (PF^2) during flux rope eruption_, X. Zhao & R. Keppens, 2022, ApJ ****, accepted | [ArXiv](https://arxiv.org/pdf/2202.08367.pdf)  | 
 | _Three-dimensional MHD wave propagation near a coronal null point: a new wave mode decomposition approach_, N. Yadav, R. Keppens & B. Popescu Braileanu, 2022, A & A  ****, accepted | [ArXiv](https://arxiv.org/pdf/2201.09704.pdf)  | 
 | _Coronal rain in randomly heated arcades_, X. Li, R. Keppens & Y. Zhou, 2022, ApJ ****, accepted | [ArXiv](https://arxiv.org/pdf/2112.02702.pdf)  | 
 | _Multi-threaded prominence oscillations triggered by a coronal shock wave_, V. Jercic, R. Keppens & Y. Zhou, 2021, Astronomy & Astrophysics **658**, A58 (13pp) | [Full paper](https://doi.org/10.1051/0004-6361/202142127) [ArXiv](https://arxiv.org/pdf/2111.09019.pdf)  | 
