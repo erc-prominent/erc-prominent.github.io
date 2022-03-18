@@ -29,12 +29,12 @@ excerpt: "A collection of news items related to the PROMINENT project"
 <!-- Special tile with link to the Solar Orbiter newsflash -->
 <div class="tile">
   <div class="post-teaser">
-    <a href="https://horizon-magazine.eu/article/five-things-we-re-going-learn-europe-s-solar-orbiter-mission.html">
+    <a href="https://ec.europa.eu/research-and-innovation/en/horizon-magazine/five-things-were-going-learn-europes-solar-orbiter-mission">
       <img src="{{ site.url }}/images/esa_so_400x250.png">
     </a>
   </div>
   <p class="entry-date">February 7, 2020</p>
-  <a href="https://horizon-magazine.eu/article/five-things-we-re-going-learn-europe-s-solar-orbiter-mission.html">
+  <a href="https://ec.europa.eu/research-and-innovation/en/horizon-magazine/five-things-were-going-learn-europes-solar-orbiter-mission">
     <h2 class="post-title">Newsflash on Solar Orbiter</h2>
   </a>
   <p class="post-excerpt">
