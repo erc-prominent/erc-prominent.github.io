@@ -9,9 +9,9 @@ share: false
 
 | Reference | Links |
 |:--------- |:----- |
-| _The Super-Alfvenic Rotational Instability in accretion disks about black holes_, Hans Goedbloed & R. Keppens, 2022, ApJ Supplement Series ****, accepted | [ArXiv](https://arxiv.org/pdf/2201.11551.pdf) [Newsflash ](https://wis.kuleuven.be/CmPA/news/2022/SARI2022)  | 
+| _The Super-Alfvenic Rotational Instability in accretion disks about black holes_, Hans Goedbloed & R. Keppens, 2022, ApJ Supplement Series **259**, 65 (41pp) | [Full paper](https://doi.org/10.3847/1538-4365/ac573c) [ArXiv](https://arxiv.org/pdf/2201.11551.pdf) [Newsflash ](https://wis.kuleuven.be/CmPA/news/2022/SARI2022)  | 
 | _Plasmoid-fed prominence formation (PF^2) during flux rope eruption_, X. Zhao & R. Keppens, 2022, ApJ **928**, 45 (11pp) | [Full paper](https://doi.org/10.3847/1538-4357/ac54a4) [ArXiv](https://arxiv.org/pdf/2202.08367.pdf)  | 
-| _Three-dimensional MHD wave propagation near a coronal null point: a new wave mode decomposition approach_, N. Yadav, R. Keppens & B. Popescu Braileanu, 2022, A & A  ****, accepted | [ArXiv](https://arxiv.org/pdf/2201.09704.pdf)  | 
+| _3D MHD wave propagation near a coronal null point: New wave mode decomposition approach_, N. Yadav, R. Keppens & B. Popescu Braileanu, 2022, A & A  **660**, A21 (13pp) | [Full paper](https://doi.org/10.1051/0004-6361/202142688) [ArXiv](https://arxiv.org/pdf/2201.09704.pdf)  | 
 | _Coronal rain in randomly heated arcades_, X. Li, R. Keppens & Y. Zhou, 2022, ApJ **926**, 216 (18pp) | [Full paper](https://doi.org/10.3847/1538-4357/ac41cd) [ArXiv](https://arxiv.org/pdf/2112.02702.pdf)  | 
 | _Multi-threaded prominence oscillations triggered by a coronal shock wave_, V. Jercic, R. Keppens & Y. Zhou, 2022, Astronomy & Astrophysics **658**, A58 (13pp) | [Full paper](https://doi.org/10.1051/0004-6361/202142127) [ArXiv](https://arxiv.org/pdf/2111.09019.pdf)  | 
 | _Radiation-hydrodynamics with MPI-AMRVAC. Flux-limited diffusion_, N. Moens, J.O. Sundqvist, I. El Mellah, L. Poniatowski, J. Teunissen & R. Keppens, 2022, Astronomy & Astrophysics **657**, A81 (14pp) | [Full paper](https://doi.org/10.1051/0004-6361/202141023) [ArXiv](https://arxiv.org/pdf/2104.03968.pdf)  | 
