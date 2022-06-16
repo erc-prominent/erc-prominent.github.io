@@ -4,8 +4,8 @@ on:
   push:
     branches: [ master ]
   schedule:
-    # minute hour monthday month weekday, so this runs every day at 20:15 UTC
-    - cron: "15 20 * * *"
+    # minute hour monthday month weekday, so this runs every Friday at 20:15 UTC
+    - cron: "15 20 * * 5"
 
 jobs:
   deploy:
