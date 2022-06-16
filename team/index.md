@@ -119,6 +119,24 @@ share: false
 
 <ul class="th-grid_right">
   <li>
+    <a href="jordidejonghe"><img src="{{ site.url }}/images/bio-photo-JDJ.jpg" width="140"></a>
+  </li>
+  <h4 style="text-align:center">Jordi De Jonghe</h4>
+
+  <em>Involvement period:</em> 2019/09/01 - present <br>
+
+  Waves and instabilities in (H)MHD and multi-fluid descriptions. <br>
+
+  Co-developer of the
+  <a href="https://legolas.science">
+    Legolas
+  </a>
+  code.
+</ul>
+
+
+<ul class="th-grid">
+  <li>
     <a href="veronikajercic"><img src="{{ site.url }}/images/bio-photo.jpg" width="140"></a>
   </li>
   <h4 style="text-align:center">Veronika Jercic</h4>
@@ -126,22 +144,4 @@ share: false
   <em>Involvement period:</em> 2020/01/01 - 2020/12/31 <br>
 
  Oscillations of solar prominences with multi-threaded structure.
-</ul>
-
-
-<ul class="th-grid">
-  <li>
-    <a href="jordidejonghe"><img src="{{ site.url }}/images/bio-photo.jpg" width="140"></a>
-  </li>
-  <h4 style="text-align:center">Jordi De Jonghe</h4>
-
-  <em>Involvement period:</em> 2019/09/01 - present <br>
-
-  Waves and instabilities in MHD and multi-fluid descriptions. <br>
-
-  Co-developer of the
-  <a href="https://github.com/n-claes/legolas">
-    Legolas
-  </a>
-  code.
 </ul>
