@@ -1,0 +1,104 @@
+!=====================================================
+! Project : prom_form_3D
+! Aim     : Extend the work of Kaneko & Yokoyama 2018
+! Results :
+! Update  : 21/03/2022
+! configuration :
+! $AMRVAC_DIR/setup.pl -d=3
+
+!=====================================================
+ &testlist
+ /
+ 
+ &filelist
+    base_filename       = '/location/to/save/jk2021'
+        autoconvert     = F
+        saveprim        = T
+        convert_type    ='vtuBmpi'
+ /
+ 
+ &savelist
+        itsave(1,1)   = 0
+        itsave(1,2)   = 0
+        dtsave_log   = 1
+        dtsave_dat    = 1
+ /
+ 
+ &stoplist
+        time_max      = 1000.0d0
+ /
+ 
+&methodlist
+    time_stepper    =   'threestep'
+    time_integrator =   'ssprk3'
+    flux_scheme     =   20*'hll'
+    limiter         =   20*'koren'
+    typesourcesplit =   'sfs'
+     small_values_method='average' 
+     small_values_daverage=4 
+ /
+
+ &boundlist!The order of the variables is fixed by the equation module chosen, i.e. rho m1 m2 m3 e b1 b2 b3 for 3D MHD
+        typeboundary_min1 = 'symm','asymm','symm','asymm','symm','asymm','symm','asymm'
+        typeboundary_min2 = 8*'special'
+        typeboundary_min3 = 8*'periodic'
+        typeboundary_max1 = 'symm','asymm','symm','asymm','symm','asymm','symm','asymm'
+        typeboundary_max2 = 8*'special'
+        typeboundary_max3 = 8*'periodic'
+ /
+
+ &meshlist
+        refine_criterion = 3
+        refine_max_level = 4
+        refine_threshold = 20*0.2d0
+        derefine_ratio=20*0.15d0
+        w_refine_weight(1)=1.0d0
+        block_nx1       = 12
+        block_nx2       = 12
+        block_nx3       = 12
+        domain_nx1       = 144 
+        domain_nx2       = 180 
+        domain_nx3       = 144
+        xprobmin1     = -12.0d0
+        xprobmax1     = 12.0d0
+        xprobmin2     = 0.0d0
+        xprobmax2     = 30.0d0
+        xprobmin3     = -12.0d0
+        xprobmax3     = 12.0d0
+ /
+
+ &paramlist
+        slowsteps     = 50
+        typecourant='maxsum'
+        courantpar    = 0.8d0
+ /
+
+ $mhd_list
+        mhd_thermal_conduction=.true.
+        mhd_radiative_cooling=.true.
+        mhd_solve_eaux=.true.
+        mhd_energy = .true.
+        mhd_gravity= .true.
+        typedivbfix = 'linde'
+        B0field=.true.
+        b0field_forcefree=.true.
+        mhd_eta=0.002d0
+ /
+
+ &tc_list
+       tc_perpendicular=.false.
+       tc_saturate=.true.
+ /
+
+ &rc_list
+        ncool=4000
+        coolcurve='SPEX_DM'
+        coolmethod='exact'
+        Tfix=.true.
+        tlow=1e-3
+ /
+
+ &usr_list
+ 
+
+ /
