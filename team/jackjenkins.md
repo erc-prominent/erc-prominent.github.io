@@ -13,13 +13,15 @@ On this page I will detail some of the things that I have been doing as a part o
 
 
 A brief breakdown of my responsibilities thusfar:
-1. Development of idealised 2.5 and 3D flux rope formation and prominence condensation models within [MPI-AMRVAC](http://amrvac.org).
+1. Development of idealised 2.5 and 3D flux rope formation and prominence/filament condensation models within [MPI-AMRVAC](http://amrvac.org).
 2. Addition of synthetic views (e.g., SDO/AIA) to the yt-project frontend
 3. Integration of data-driven intitial conditions, following the implementation of [Fischer et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020ApJS..248....2F/abstract), into MPI-AMRVAC.
 
 <ins>Progress so far:</ins> 
 
-# 1. - Idealised 2.5 & 3D models of solar prominences
+# 1. - Idealised 2.5 & 3D models of solar prominences/filaments
+
+### 2.1 - 2.5D
 <img src="{{ site.url }}/images/Jenkins&Keppens_2020_synthesis.png" width="200" alt="My ugly mug" style="float: right; padding-left: 2.5rem; width: 40rem">
 We have fully realised a 2.5D simulation of the formation and condensation of a solar prominence following the pioneering work of Kaneko & Yokoyama (2015). Herein, a linear force-free magnetic field is deformed (in line with general evolution of the solar photosphere i.e., footpoint driven prescribed in the bottom boundary) so as to initiate magnetic reconnection and the formation of a 2.5D flux rope with isolated material suspended within the solar corona. This material then condensed following radiative losses and so-called 'runaway radiative cooling' that leads to the in-situ formation of condensations via the thermal instability. The abstract for this work is as follows:
 
@@ -28,15 +30,18 @@ We have fully realised a 2.5D simulation of the formation and condensation of a 
 **Methods**: We perform grid-adaptive numerical simulations in a 2.5D translationally invariant setup, where we can study the distribution of all metrics involved in advanced magnetohydrodynamic stability theory for nested flux rope equilibria. We quantify in particular convective continuum instability (CCI), thermal instability (TI), baroclinicity, and mass-slipping metrics within a series of numerical simulations of prominences formed via levitation-condensation.  
 **Results**: Overall, we find that the formation and evolution of prominence condensations happens in a clearly defined sequence regardless of resolution, with background field strength between 3 and 10 Gauss. The CCI governs the slow evolution of plasma prior to the formation of distinct condensations found to be driven by the TI. Evolution of the condensations towards the topological dips of the magnetic flux rope is a consequence of these condensations initially forming out of pressure balance with their surroundings. From the baroclinicity distributions, smaller-scale rotational motions are inferred within forming and evolving condensations. Upon the complete condensation of a prominence 'monolith', the slow descent of this plasma towards lower heights appears consistent with the mass-slippage mechanism driven by episodes of both local current diffusion and magnetic reconnection.
 
-The associated paper can be found online at: [https://www.aanda.org/articles/aa/pdf/2021/02/aa39630-20.pdf](https://www.aanda.org/articles/aa/pdf/2021/02/aa39630-20.pdf) and with open access at: [https://arxiv.org/abs/2011.13428](https://arxiv.org/abs/2011.13428).
+The associated paper can be found online at: [https://www.aanda.org/](https://www.aanda.org/articles/aa/pdf/2021/02/aa39630-20.pdf) and with open access at: [https://arxiv.org/](https://arxiv.org/abs/2011.13428).
 
-<div align="center" markdown="1">
-**--Watch this space for upcoming news about the full 3D solar prominence formation and evolution--**
-</div>
+### 2.2 - 3D
+<img src="{{ site.url }}/images/Jenkins&Keppens_2022_synthesis.png" width="200" alt="My ugly mug" style="float: right; padding-left: 2.5rem; width: 40rem">
+Following on from the work that is outlined in 2.1, here, we have recently extended the model to a fully 3D domain that assumes periodicity in place of invariance for the third dimension. The focus of this work was to explore the additional evolutionary pathways made possible by considering this third dimension, the ommission of which imposed strong limitations on those evolutions remarked upon within the previous 2.5D study. Namely, the deposition of baroclinicity was previously restricted to the flux surface geometry, and was unable to generate additional fine structuring that may be possible in 3D. Hence, the only vertical motions that were recorded were those from the 'mass-slippage' mechanism that is artificially enhanced by the large resistivity value that we adopted. Since vertical motions are observed ubiquitously throughout quiescent prominences projected above the limb, this is a feature that is neccesary in any model that aims to claim accuracy against observations. The abstract for this work is as follows:
 
-<div align="center" markdown="1">
-<a href="{{ site.url }}/public_files/jackjenkins/prom_form_JK_2022.zip"> Files for Jenkins & Keppens (2022) </a>
-</div>
+Prominences and filaments are manifestations of magnetized, levitated plasma within the solar coronal atmosphere. Their structure is assumed to be driven by the ambient magnetic field, but various open questions pertaining to their formation and evolution persist. In particular, the discrepancy between their appearance if projected against the solar disk or at the limb remain unexplained. State-of-the-art magnetohydrodynamic simulations yield a fully three-dimensional model that successfully unites the extreme ultraviolet and hydrogen Hα views of quiescent prominences that contain radial striations with the equivalent on-disk filaments comprised of finite width threads. We analyse all hydromagnetic sources of the vorticity evolution and find it consistent with the nonlinear development of the magnetic Rayleigh–Taylor instability. We show that this universal gravitational interchange process can explain the apparent dichotomy of the quiescent prominence/filament appearances. Our simulation could also be used to predict what the instruments associated with the Solar Orbiter and the Inouye Solar Telescope (DKIST) will observe.
+
+The associated paper can be found online at [https://www.nature.com/](https://www.nature.com/articles/s41550-022-01705-z) and with open access, but no saveability, at: [https://rdcu.be/](https://rdcu.be/cRprE)
+
+The source files for this study that can be used, plug and play, within the open source [MPI-AMRVAC](http://amrvac.org) toolkit are available <a href="{{ site.url }}/public_files/jackjenkins/prom_form_JK_2022.zip"> here </a>.
+
 
 # 2. - Synthesis of simulations as observations
 
