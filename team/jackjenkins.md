@@ -21,7 +21,7 @@ A brief breakdown of my responsibilities thusfar:
 
 # 1. - Idealised 2.5 & 3D models of solar prominences/filaments
 
-### 2.1 - 2.5D
+### 1.1 - 2.5D
 <img src="{{ site.url }}/images/Jenkins&Keppens_2020_synthesis.png" width="200" alt="My ugly mug" style="float: right; padding-left: 2.5rem; width: 40rem">
 We have fully realised a 2.5D simulation of the formation and condensation of a solar prominence following the pioneering work of Kaneko & Yokoyama (2015). Herein, a linear force-free magnetic field is deformed (in line with general evolution of the solar photosphere i.e., footpoint driven prescribed in the bottom boundary) so as to initiate magnetic reconnection and the formation of a 2.5D flux rope with isolated material suspended within the solar corona. This material then condensed following radiative losses and so-called 'runaway radiative cooling' that leads to the in-situ formation of condensations via the thermal instability. The abstract for this work is as follows:
 
@@ -32,7 +32,7 @@ We have fully realised a 2.5D simulation of the formation and condensation of a 
 
 The associated paper can be found online at: [https://www.aanda.org/](https://www.aanda.org/articles/aa/pdf/2021/02/aa39630-20.pdf) and with open access at: [https://arxiv.org/](https://arxiv.org/abs/2011.13428).
 
-### 2.2 - 3D
+### 1.2 - 3D
 <img src="{{ site.url }}/images/Jenkins&Keppens_2022_synthesis.png" width="200" alt="My ugly mug" style="float: right; padding-left: 2.5rem; width: 40rem">
 Following on from the work that is outlined in 2.1, here, we have recently extended the model to a fully 3D domain that assumes periodicity in place of invariance for the third dimension. The focus of this work was to explore the additional evolutionary pathways made possible by considering this third dimension, the ommission of which imposed strong limitations on those evolutions remarked upon within the previous 2.5D study. Namely, the deposition of baroclinicity was previously restricted to the flux surface geometry, and was unable to generate additional fine structuring that may be possible in 3D. Hence, the only vertical motions that were recorded were those from the 'mass-slippage' mechanism that is artificially enhanced by the large resistivity value that we adopted. Since vertical motions are observed ubiquitously throughout quiescent prominences projected above the limb, this is a feature that is neccesary in any model that aims to claim accuracy against observations. The abstract for this work is as follows:
 
