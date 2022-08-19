@@ -1,9 +1,10 @@
-import requests
-import re
 import os
+import re
 import shutil
 from pathlib import Path
 from tempfile import mkstemp
+
+import requests
 from bs4 import BeautifulSoup
 
 
@@ -23,8 +24,11 @@ def parse_href_links(item):
             name = "ArXiv"
         if "lirias" in name.lower():
             name = "Lirias"
-        url = link["href"]
-        parsed_links.append({"name": name, "url": url})
+        try:
+            url = link["href"]
+            parsed_links.append({"name": name, "url": url})
+        except KeyError:
+            pass
     return parsed_links
 
 
