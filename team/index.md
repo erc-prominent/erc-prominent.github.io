@@ -18,7 +18,7 @@ share: false
 
 <h2 style="text-align:center">Postdocs</h2>
 
-<ul class="th-grid_right">
+<ul class="th-grid">
   <li>
     <a href="nielsclaes"><img src="{{ site.url }}/images/bio-photo-NC.png" width="140"></a>
   </li>
