@@ -42,11 +42,11 @@ The associated paper can be found online at [https://www.nature.com/](https://ww
 
 The source files for this study that can be used, plug and play, within the open source [MPI-AMRVAC](http://amrvac.org) toolkit are available <a href="{{ site.url }}/public_files/jackjenkins/prom_form_JK_2022.zip"> here </a>.
 
-Press releases associated with this study:
-Nature Portfolio Astronomy Community: [https://astronomycommunity.nature.com](https://astronomycommunity.nature.com/posts/the-solar-prominence-filament-paradox-the-mrti-or-perhaps-something-else)
-Centre for mathematical Plasma Astrophysics News: [https://wis.kuleuven.be/CmPA/news/](https://wis.kuleuven.be/CmPA/news/2022/Nature_astronomy)
-Vlaams Supercomputer Centrum: [https://www.vscentrum.be/post/](https://www.vscentrum.be/post/resolving-the-solar-prominence-filament-paradox-using-the-magnetic-rayleigh-taylor-instability)
-ERC Prominent News: [https://erc-prominent.github.io//articles/](https://erc-prominent.github.io//articles/paradox_pr/)
+Press releases associated with this study:<br>
+Nature Portfolio Astronomy Community: [https://astronomycommunity.nature.com](https://astronomycommunity.nature.com/posts/the-solar-prominence-filament-paradox-the-mrti-or-perhaps-something-else) <br>
+Centre for mathematical Plasma Astrophysics News: [https://wis.kuleuven.be/CmPA/news/](https://wis.kuleuven.be/CmPA/news/2022/Nature_astronomy)<br>
+Vlaams Supercomputer Centrum: [https://www.vscentrum.be/post/](https://www.vscentrum.be/post/resolving-the-solar-prominence-filament-paradox-using-the-magnetic-rayleigh-taylor-instability)<br>
+ERC Prominent News: [https://erc-prominent.github.io//articles/](https://erc-prominent.github.io//articles/paradox_pr/)<br>
 
 
 # 2. - Synthesis of simulations as observations
