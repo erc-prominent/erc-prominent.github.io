@@ -18,6 +18,24 @@ share: false
 
 <h2 style="text-align:center">Postdocs</h2>
 
+<ul class="th-grid_right">
+  <li>
+    <a href="nielsclaes"><img src="{{ site.url }}/images/bio-photo-NC.png" width="140"></a>
+  </li>
+  <h4 style="text-align:center">Niels Claes</h4>
+
+  <em>Involvement period:</em> 2020/01/01 - present <br>
+
+  Main developer of the
+  <a href="https://github.com/n-claes/legolas">
+    Legolas
+  </a>
+  code. <br>
+
+  Largely focused on MHD spectral theory applied to solar atmospheric
+  configurations, with particular interest in thermal instabilities and prominence
+  fine structure.
+</ul>
 
 <ul class="th-grid_right">
   <li>
@@ -84,24 +102,15 @@ share: false
 
 <h2 style="text-align:center">PhDs</h2>
 
-
 <ul class="th-grid_right">
   <li>
-    <a href="nielsclaes"><img src="{{ site.url }}/images/bio-photo-NC.png" width="140"></a>
+    <a href="madhurjyachangmai"><img src="{{ site.url }}/images/bio-photo.jpg" width="140" ></a>
   </li>
-  <h4 style="text-align:center">Niels Claes</h4>
+  <h4 style="text-align:center">Madhurjya Changmai</h4>
 
-  <em>Involvement period:</em> 2020/01/01 - present <br>
+  <em>Involvement period:</em> 2021/27/09 - present <br>
 
-  Main developer of the
-  <a href="https://github.com/n-claes/legolas">
-    Legolas
-  </a>
-  code. <br>
-
-  Largely focused on MHD spectral theory applied to solar atmospheric
-  configurations, with particular interest in thermal instabilities and prominence
-  fine structure.
+  Role of turbulence and magnetic reconnection due to instabilities in Solar Prominences
 </ul>
 
 
@@ -145,3 +154,4 @@ share: false
 
  Oscillations of solar prominences with multi-threaded structure.
 </ul>
+
