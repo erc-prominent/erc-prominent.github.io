@@ -9,7 +9,7 @@ share: false
 
 | Reference | Links |
 |:--------- |:----- |
-| _Modelling the magnetic structure of a large-scale horse-shoe-like filament in a decaying and diffuse active region_, K. Kang, Y. Guo, I. Roussev, R. Keppens & J. Lin, 2022, MNRAS  ****,  (pp) | [Full paper](https://doi.org/10.1093/mnras/stac3156) [ArXiv](https://arxiv.org/pdf/2211.04842.pdf)  | 
+| _Modelling the magnetic structure of a large-scale horse-shoe-like filament in a decaying and diffuse active region_, K. Kang, Y. Guo, I. Roussev, R. Keppens & J. Lin, 2023, MNRAS  **518**, 388-404 (17pp) | [Full paper](https://doi.org/10.1093/mnras/stac3156) [ArXiv](https://arxiv.org/pdf/2211.04842.pdf)  | 
 | _Thermally enhanced tearing in solar current sheets: Explosive reconnection with plasmoid-trapped condensations_, S. Sen & R. Keppens, 2022, A & A  **666**, A28 (14pp) | [Full paper](https://doi.org/10.1051/0004-6361/202244152) [ArXiv](https://arxiv.org/pdf/2208.04355.pdf)  | 
 | _Two-fluid implementation in MPI-AMRVAC with applications in the solar chromosphere_, B. Popescu Braileanu & R. Keppens, 2022, A & A  **664**, A55 (17pp) | [Full paper](https://doi.org/10.1051/0004-6361/202243630) [ArXiv](https://arxiv.org/pdf/2205.05049.pdf)  | 
 | _Swift generator for three-dimensional magnetohydrodynamic turbulence_, J.B. Durrive, M. Changmai, R. Keppens, P. Lesaffre, D. Maci & G. Momferatos, 2022, Phys. Rev. E **106**, 025307 (pp) | [Full paper](https://doi.org/10.1103/PhysRevE.106.025307) [ArXiv](https://arxiv.org/pdf/2207.03373.pdf)  | 
