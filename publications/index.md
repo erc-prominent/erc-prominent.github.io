@@ -9,6 +9,7 @@ share: false
 
 | Reference | Links |
 |:--------- |:----- |
+| _Winking filaments due to cyclic evaporation-condensation_, Y.-H. Zhou, X.-H. Li, J. Hong & R. Keppens, 2023, A & A  ****, (14pp) | [Full paper](https://doi.org/10.1051/0004-6361/202346004) [ArXiv](https://arxiv.org/pdf/2305.13237.pdf)  | 
 | _Magnetohydrodynamic turbulence formation in solar flares: 3D simulation and synthetic observations_, W. Ruan, L. Yan & R. Keppens, 2023, ApJ **947**, 67 (10pp) | [Full paper](https://doi.org/10.3847/1538-4357/ac9b4e) [ArXiv](https://arxiv.org/pdf/2210.09856.pdf)  | 
 | _Multithermal jet formation triggered by flux emergence_, X. Li, R. Keppens  & Y. Zhou, 2023, ApJ Letters **947**, L17 (8pp) | [Full paper](https://doi.org/10.3847/2041-8213/acc9ba) [ArXiv](https://arxiv.org/pdf/2304.01043.pdf)  | 
 | _MPI-AMRVAC 3.0: Updates to an open-source simulation framework_, R. Keppens, B. Popescu Braileanu, Y. Zhou, W. Ruan, C. Xia, Y. Guo, N. Claes & F. Bacchini, 2023, A & A  **673**, A66 (31pp) | [Full paper](https://doi.org/10.1051/0004-6361/202245359) [ArXiv](https://arxiv.org/pdf/2303.03026.pdf)  | 
