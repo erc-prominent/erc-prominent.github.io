@@ -17,6 +17,11 @@ A brief breakdown of my responsibilities thusfar:
 2. Addition of synthetic views (e.g., SDO/AIA) to the yt-project frontend
 3. Integration of data-driven intitial conditions, following the implementation of [Fischer et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020ApJS..248....2F/abstract), into MPI-AMRVAC.
 
+<ins>Poster information:</ins>
+<li>
+	<a href="jackjenkinsposters">NAM2023</a>
+</li>
+
 <ins>Progress so far:</ins> 
 
 # 1. - Idealised 2.5 & 3D models of solar prominences/filaments
@@ -46,7 +51,7 @@ Press releases associated with this study:<br>
 Nature Portfolio Astronomy Community: [https://astronomycommunity.nature.com](https://astronomycommunity.nature.com/posts/the-solar-prominence-filament-paradox-the-mrti-or-perhaps-something-else) <br>
 Centre for mathematical Plasma Astrophysics News: [https://wis.kuleuven.be/CmPA/news/](https://wis.kuleuven.be/CmPA/news/2022/Nature_astronomy)<br>
 Vlaams Supercomputer Centrum: [https://www.vscentrum.be/post/](https://www.vscentrum.be/post/resolving-the-solar-prominence-filament-paradox-using-the-magnetic-rayleigh-taylor-instability)<br>
-ERC Prominent News: [https://erc-prominent.github.io//articles/](https://erc-prominent.github.io//articles/paradox_pr/)<br>
+ERC Prominent News: [https://erc-prominent.github.io/articles/](https://erc-prominent.github.io//articles/paradox_pr/)<br>
 
 
 # 2. - Synthesis of simulations as observations
