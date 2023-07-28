@@ -9,6 +9,7 @@ share: false
 
 | Reference | Links |
 |:--------- |:----- |
+| _Legolas 2.0: Improvements and extensions to an MHD spectroscopic framework_, N. Claes & R. Keppens, 2023, Comp. Phys. Commun. **291**, 108856 (13pp) | [Full paper](https://doi.org/10.1016/j.cpc.2023.108856) [ArXiv](https://arxiv.org/pdf/2307.10145.pdf)  | 
 | _Winking filaments due to cyclic evaporation-condensation_, Y.-H. Zhou, X.-H. Li, J. Hong & R. Keppens, 2023, A & A  **675**, A31 (13pp) | [Full paper](https://doi.org/10.1051/0004-6361/202346004) [ArXiv](https://arxiv.org/pdf/2305.13237.pdf)  | 
 | _Effective Resistivity in Relativistic Collisionless Reconnection_, S. Selvi, O. Porth, B. Ripperda, F. Bacchini, L. Sironi & R. Keppens, 2023, ApJ **950**, 169 (9pp) | [Full paper](https://doi.org/10.3847/1538-4357/acd0b0) [ArXiv](https://arxiv.org/pdf/2211.04553.pdf)  | 
 | _Magnetohydrodynamic turbulence formation in solar flares: 3D simulation and synthetic observations_, W. Ruan, L. Yan & R. Keppens, 2023, ApJ **947**, 67 (10pp) | [Full paper](https://doi.org/10.3847/1538-4357/ac9b4e) [ArXiv](https://arxiv.org/pdf/2210.09856.pdf)  | 
