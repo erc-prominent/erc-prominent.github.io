@@ -9,6 +9,7 @@ share: false
 
 | Reference | Links |
 |:--------- |:----- |
+| _Two-fluid reconnection jets in a gravitationally stratified atmosphere_, B. Popescu Braileanu & R. Keppens, 2023, A & A  **678**, A66 (15pp) | [Full paper](https://doi.org/10.1051/0004-6361/202346659) [ArXiv](https://arxiv.org/pdf/2307.05736.pdf)  | 
 | _Exploring the effects of numerical methods and slope limiters in heliospheric modeling_, T. Baratashvili, C. Verbeke, R. Keppens & S. Poedts, 2023, Sun and Geosphere  **15 (2)**,  pp. 49-54 | [Full paper](https://doi.org/10.31401/SunGeo.2022.02.01) [ArXiv](https://arxiv.org/pdf/2305.14905.pdf)  | 
 | _Rotational Flows in Solar Coronal Flux Rope Cavities_, V. Liakh & R. Keppens, 2023, ApJL **953**, L13 (9pp) | [Full paper](https://doi.org/10.3847/2041-8213/acea78) [ArXiv](https://arxiv.org/pdf/2307.14934.pdf)  | 
 | _Legolas 2.0: Improvements and extensions to an MHD spectroscopic framework_, N. Claes & R. Keppens, 2023, Comp. Phys. Commun. **291**, 108856 (13pp) | [Full paper](https://doi.org/10.1016/j.cpc.2023.108856) [ArXiv](https://arxiv.org/pdf/2307.10145.pdf)  | 
