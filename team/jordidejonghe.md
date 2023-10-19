@@ -53,8 +53,8 @@ In De Jonghe, Claes & Keppens (2022) we finally present the extension of the cod
 The code is actively maintained and under continuous development by [Niels](../nielsclaes) and myself.
 
 **Publications**
-1. Claes, N., De Jonghe, J. & Keppens, R. (2020). Legolas: A modern tool for magnetohydrodynamic spectroscopy. *Astrophys. J., Suppl. Ser.* **251**, 25. [DOI: 10.3847/1538-4365/abc5c4](https://doi.org/10.3847/1538-4365/abc5c4). [arXiv: 2010.14148](https://arxiv.org/abs/2010.14148)
-2. De Jonghe, J., Claes, N. & Keppens, R. (2022). Legolas: Magnetohydrodynamic spectroscopy with viscosity and Hall current. *J. Plasma Phys.* (accepted, in press). [arXiv: 2206.07377](https://arxiv.org/abs/2206.07377).
+1. Claes, N., De Jonghe, J. & Keppens, R. (2020). Legolas: A modern tool for magnetohydrodynamic spectroscopy. *Astrophys. J., Suppl. Ser.* **251**, 25. [DOI: 10.3847/1538-4365/abc5c4](https://doi.org/10.3847/1538-4365/abc5c4). [arXiv: 2010.14148](https://arxiv.org/abs/2010.14148).
+2. De Jonghe, J., Claes, N. & Keppens, R. (2022). Legolas: Magnetohydrodynamic spectroscopy with viscosity and Hall current. *J. Plasma Phys.* **88** (3), 905880321. [DOI: 10.1017/S0022377822000617](https://doi.org/10.1017/S0022377822000617). [arXiv: 2206.07377](https://arxiv.org/abs/2206.07377).
 
 
 
