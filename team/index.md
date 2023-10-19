@@ -39,6 +39,19 @@ share: false
 
 <ul class="th-grid_right">
   <li>
+    <a href="malcolmdruett"><img src="{{ site.url }}/images/bio-photo-MD.jpg" width="140"></a>
+  </li>
+  <h4 style="text-align:center">Malcolm Druett</h4>
+
+  <em>Involvement period:</em> 2023/01/01 - present <br>
+
+  Multi-dimensional solar flare simulations, and the lower solar atmosphere.
+
+</ul>
+
+
+<ul class="th-grid">
+  <li>
     <a href="jackjenkins"><img src="{{ site.url }}/images/jack_bio_photo_erc.jpg"></a>
   </li>
   <h4 style="text-align:center">Jack Jenkins</h4>
@@ -48,7 +61,7 @@ share: false
 </ul>
 
 
-<ul class="th-grid">
+<ul class="th-grid_right">
   <li>
     <a href="valeriialiakh"><img src="{{ site.url }}/images/bio-photo-VL.jpg" width="140"></a>
   </li>
@@ -60,7 +73,7 @@ share: false
 </ul>
 
 
-<ul class="th-grid_right">
+<ul class="th-grid">
   <li>
    <a href="xiaohongli"><img src="{{ site.url }}/images/bio-photo-Xiaohong.jpg" width="140"></a>
   </li>
@@ -72,7 +85,7 @@ share: false
 </ul>
 
 
-<ul class="th-grid">
+<ul class="th-grid_right">
   <li>
     <a href="beatricebraileanu"><img src="{{ site.url }}/images/bio-photo-bpb.png" width="140"></a>
   </li>
@@ -87,7 +100,7 @@ share: false
 </ul>
 
 
-<ul class="th-grid_right">
+<ul class="th-grid">
   <li>
     <a href="wenzhiruan"><img src="{{ site.url }}/images/wenzhi_bio_photo.jpg" width="140"></a>
   </li>
