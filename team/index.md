@@ -24,7 +24,7 @@ share: false
   </li>
   <h4 style="text-align:center">Niels Claes</h4>
 
-  <em>Involvement period:</em> 2020/01/01 - present <br>
+  <em>Involvement period:</em> 2020/01/01 - 2023/08/31 <br>
 
   Main developer of the
   <a href="https://github.com/n-claes/legolas">
@@ -145,7 +145,7 @@ share: false
   </li>
   <h4 style="text-align:center">Jordi De Jonghe</h4>
 
-  <em>Involvement period:</em> 2019/09/01 - present <br>
+  <em>Involvement period:</em> 2019/09/01 - 2023/10/13 <br>
 
   Waves and instabilities in (H)MHD and multi-fluid descriptions. <br>
 
