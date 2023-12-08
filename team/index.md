@@ -121,7 +121,7 @@ share: false
   </li>
   <h4 style="text-align:center">Madhurjya Changmai</h4>
 
-  <em>Involvement period:</em> 2021/27/09 - present <br>
+  <em>Involvement period:</em> 2021/09/27 - present <br>
 
   Role of turbulence and magnetic reconnection due to instabilities in Solar Prominences
 </ul>
@@ -129,13 +129,13 @@ share: false
 
 <ul class="th-grid">
   <li>
-    <a href="jorishermans"><img src="{{ site.url }}/images/bio-photo-Joris.jpg" width="140" ></a>
+    <a href="jorishermans"><img src="{{ site.url }}/images/bio-photo-Joris.png" width="140" ></a>
   </li>
   <h4 style="text-align:center">Joris Hermans</h4>
 
-  <em>Involvement period:</em> 2019/10/01 - present <br>
+  <em>Involvement period:</em> 2019/10/01 - 2023/12/31 <br>
 
-  Solar tornadoes and thermal instability
+  The influence of cooling curves and flow on thermal instability 
 </ul>
 
 
