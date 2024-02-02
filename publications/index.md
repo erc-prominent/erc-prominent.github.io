@@ -9,8 +9,9 @@ share: false
 
 | Reference | Links |
 |:--------- |:----- |
-| _Toroidal Miller-Turner and Soloviev coronal mass ejection models in EUHFORIA. I. Implementation_, L. Linan, A. Maharana, S. Poedts, B. Schmieder & R. Keppens, 2023, A & A  ****, (pp) | [Full paper](https://doi.org/10.1051/0004-6361/202347794) [ArXiv](https://arxiv.org/pdf/2310.17239.pdf)  | 
-| _Wave transformations near a coronal magnetic null point_, N. Yadav & R. Keppens, 2023, A & A  ****, (pp) | [Full paper](https://doi.org/10.1051/0004-6361/202347417) [ArXiv](https://arxiv.org/pdf/2310.17573.pdf)  | 
+| _Wave transformations near a coronal magnetic null point_, N. Yadav & R. Keppens, 2024, A & A  **681**, A43 (8pp) | [Full paper](https://doi.org/10.1051/0004-6361/202347417) [ArXiv](https://arxiv.org/pdf/2310.17573.pdf)  | 
+| _Rotation and Confined Eruption of a Double Flux-rope System_, X.M. Zhang, J.H. Guo, Y. Guo, M.D. Ding & R. Keppens, 2024, ApJ  **961**, id.145 (11pp) | [Full paper](https://doi.org/10.3847/1538-4357/ad1521) [ArXiv](https://arxiv.org/pdf/2312.07406.pdf)  | 
+| _Toroidal Miller-Turner and Soloviev coronal mass ejection models in EUHFORIA. I. Implementation_, L. Linan, A. Maharana, S. Poedts, B. Schmieder & R. Keppens, 2024, A & A  **681**, A103 (20pp) | [Full paper](https://doi.org/10.1051/0004-6361/202347794) [ArXiv](https://arxiv.org/pdf/2310.17239.pdf)  | 
 | _Chromospheric evaporation by particle beams in multi-dimensional flare models_, M. Druett, W. Ruan & R. Keppens, 2023, Solar Physics **298**, 134 (20pp) | [Full paper](https://doi.org/10.1007/s11207-023-02224-4) [ArXiv](https://arxiv.org/pdf/2310.11226)  | 
 | _Data-constrained Magnetohydrodynamic Simulation of an Intermediate Solar Filament Eruption_, Y. Guo, J. Guo, Y. Ni, M.D. Ding, P.F. Chen, C. Xia, R. Keppens & K.E. Yang, 2023, ApJ **958**, 25 (11pp) | [Full paper](https://doi.org/10.3847/1538-4357/acf75b) [ArXiv](https://arxiv.org/pdf/2309.01325)  | 
 | _3D coupled tearing-thermal evolution in solar current sheets_, S. Sen, J. Jenkins & R. Keppens, 2023, A & A  **678**, A132 (12pp) | [Full paper](https://doi.org/10.1051/0004-6361/202347038) [ArXiv](https://arxiv.org/pdf/2308.10210.pdf)  | 
