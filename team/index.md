@@ -43,7 +43,7 @@ share: false
   </li>
   <h4 style="text-align:center">Malcolm Druett</h4>
 
-  <em>Involvement period:</em> 2023/01/01 - present <br>
+  <em>Involvement period:</em> 2024/01/01 - present <br>
 
   Multi-dimensional solar flare simulations, and the lower solar atmosphere.
 
@@ -56,7 +56,7 @@ share: false
   </li>
   <h4 style="text-align:center">Jack Jenkins</h4>
 
-  <em>Involvement period:</em> 2020/04/01 - present <br>
+  <em>Involvement period:</em> 2020/04/01 - 2023/11/30 <br>
   2.5 & 3D formation, structure, and evolution of solar prominence condensations.
 </ul>
 
@@ -79,7 +79,7 @@ share: false
   </li>
   <h4 style="text-align:center">Xiaohong Li</h4>
 
-  <em>Involvement period:</em> 2020/10/28 - present <br>
+  <em>Involvement period:</em> 2020/10/28 - 2023/08/31 <br>
 
   2.5 & 3D simulation of coronal rain.
 </ul>
@@ -107,8 +107,42 @@ share: false
   <h4 style="text-align:center">Wenzhi Ruan</h4>
 
   <em>Involvement period:</em> 2020/02/01 - 2022/01/31 <br>
+  <em>Involvement period:</em> 2023/10/01 - 2023/09/30 <br>
 
   Impulsive phase of solar flares and coronal rains in gradual phase.
+</ul>
+
+<ul class="th-grid">
+  <li>
+   <a href="alexpietrow"><img src="{{ site.url }}/images/bio-photo.jpg" width="140"></a>
+  </li>
+  <h4 style="text-align:center">Alex Pietrow</h4>
+
+  <em>Involvement period:</em> 2024/03/01 - present <br>
+
+  synthetic views on 2.5 & 3D simulations of rain and prominences.
+</ul>
+
+<ul class="th-grid">
+  <li>
+   <a href="sadeghimohammad"><img src="{{ site.url }}/images/bio-photo.jpg" width="140"></a>
+  </li>
+  <h4 style="text-align:center">Sadeghi Mohammad</h4>
+
+  <em>Involvement period:</em> 2024/03/01 - present <br>
+
+  waves and oscillations in rain and prominences.
+</ul>
+
+<ul class="th-grid">
+  <li>
+   <a href="maximedubart"><img src="{{ site.url }}/images/bio-photo.jpg" width="140"></a>
+  </li>
+  <h4 style="text-align:center">Maxime Dubart</h4>
+
+  <em>Involvement period:</em> 2024/04/01 - present <br>
+
+  postflare coronal rain
 </ul>
 
 ***
@@ -168,3 +202,24 @@ share: false
  Oscillations of solar prominences with multi-threaded structure.
 </ul>
 
+<ul class="th-grid">
+  <li>
+    <a href="diondonne"><img src="{{ site.url }}/images/bio-photo.jpg" width="140"></a>
+  </li>
+  <h4 style="text-align:center">Dion Donne</h4>
+
+  <em>Involvement period:</em> 2024/01/01 - present <br>
+
+ 3D simulations of solar prominences with fine-structure.
+</ul>
+
+<ul class="th-grid">
+  <li>
+    <a href="danielamaci"><img src="{{ site.url }}/images/bio-photo.jpg" width="140"></a>
+  </li>
+  <h4 style="text-align:center">Daniela Maci</h4>
+
+  <em>Involvement period:</em> 2024/03/01 - present <br>
+
+ 3D turbulence in solar prominences.
+</ul>
