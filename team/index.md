@@ -145,9 +145,6 @@ share: false
   postflare coronal rain
 </ul>
 
-***
-
-<h2 style="text-align:center">PhDs</h2>
 
 <ul class="th-grid_right">
   <li>
@@ -201,6 +198,10 @@ share: false
 
  Oscillations of solar prominences with multi-threaded structure.
 </ul>
+
+***
+
+<h2 style="text-align:center">PhDs</h2>
 
 <ul class="th-grid">
   <li>
