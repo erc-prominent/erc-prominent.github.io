@@ -20,7 +20,7 @@ Observations from SDO/AIA showed the activations of prominence oscillations with
 
 Figure 1. Density distribution in the large numerical domain. The small panel shows the region zoomed in the prominence with overploted
 
-![]({{ site.url }}/images/JenkinsOsborneKeppens2023_prom.png)
+![]({{ site.url }}/images/prominence_remote_triggering.png)
 
 For my former reasearch, please check my [ORCiD](https://orcid.org/0000-0002-9570-8145). Feel free to contact me: [valeriia.liakh@kuleuven.be](mailto:valeriia.liakh@kuleuven.be).
 
