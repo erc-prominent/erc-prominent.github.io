@@ -9,6 +9,9 @@ share: false
 
 | Reference | Links |
 |:--------- |:----- |
+| _A spectroscopic investigation of thermal instability for cylindrical equilibria with background flow_, J. Hermans & R. Keppens, 2024, A & A  ****,  (pp) | [Full paper](https://doi.org/10.1051/0004-6361/202348337) [ArXiv](https://arxiv.org/pdf/2403.00082.pdf)  | 
+| _Exploring self-consistent 2.5D flare simulations with MPI-AMRVAC_, M. Druett, W. Ruan & R. Keppens, 2024, A & A  ****,  (pp) | [Full paper](https://doi.org/10.1051/0004-6361/202347600) [ArXiv](https://arxiv.org/pdf/2310.09939.pdf)  | 
+| _Particle trapping and acceleration in turbulent post-flare coronal loops_, F. Bacchini, W. Ruan & R. Keppens, 2024, MNRAS  **529**, 2399-2412 (14pp) | [Full paper](https://doi.org/10.1093/mnras/stae723) [ArXiv](https://arxiv.org/pdf/2403.07107.pdf)  | 
 | _Modification of the resistive tearing instability with Joule heating by shear flows_, J. De Jonghe & R. Keppens, 2024, Physics of Plasmas **31**, 032106 (19pp) | [Full paper](https://doi.org/10.1063/5.0180535) [ArXiv](https://arxiv.org/pdf/2402.12005.pdf)  | 
 | _Wave transformations near a coronal magnetic null point_, N. Yadav & R. Keppens, 2024, A & A  **681**, A43 (8pp) | [Full paper](https://doi.org/10.1051/0004-6361/202347417) [ArXiv](https://arxiv.org/pdf/2310.17573.pdf)  | 
 | _Rotation and Confined Eruption of a Double Flux-rope System_, X.M. Zhang, J.H. Guo, Y. Guo, M.D. Ding & R. Keppens, 2024, ApJ  **961**, id.145 (11pp) | [Full paper](https://doi.org/10.3847/1538-4357/ad1521) [ArXiv](https://arxiv.org/pdf/2312.07406.pdf)  | 
