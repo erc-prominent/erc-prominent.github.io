@@ -9,6 +9,7 @@ share: false
 
 | Reference | Links |
 |:--------- |:----- |
+| _The bright rim prominences according to 2.5D radiative transfer_, J.M. Jenkins, C.M.J. Osborne, Y. Qiu, R. Keppens & Ch. Li, 2024, ApJL **964**, L34 (7pp) | [Full paper](https://doi.org/10.3847/2041-8213/ad3423) [ArXiv](https://arxiv.org/pdf/2403.09931.pdf)  | 
 | _A spectroscopic investigation of thermal instability for cylindrical equilibria with background flow_, J. Hermans & R. Keppens, 2024, A & A  ****,  (pp) | [Full paper](https://doi.org/10.1051/0004-6361/202348337) [ArXiv](https://arxiv.org/pdf/2403.00082.pdf)  | 
 | _Exploring self-consistent 2.5D flare simulations with MPI-AMRVAC_, M. Druett, W. Ruan & R. Keppens, 2024, A & A  ****,  (pp) | [Full paper](https://doi.org/10.1051/0004-6361/202347600) [ArXiv](https://arxiv.org/pdf/2310.09939.pdf)  | 
 | _Particle trapping and acceleration in turbulent post-flare coronal loops_, F. Bacchini, W. Ruan & R. Keppens, 2024, MNRAS  **529**, 2399-2412 (14pp) | [Full paper](https://doi.org/10.1093/mnras/stae723) [ArXiv](https://arxiv.org/pdf/2403.07107.pdf)  | 
