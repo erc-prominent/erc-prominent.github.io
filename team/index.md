@@ -11,7 +11,7 @@ share: false
   </li>
   <h4 style="text-align:center">Rony Keppens (PI)</h4>
 
-  Rony is proud to lead the team, and is actively researching MHD, developing codes, and applying them to Solar and Prominence-related physics.
+  Rony is very proud to lead the team, and is actively researching MHD, developing codes, and applying them to Solar and Prominence-related physics.
 </ul>
 
 ***
