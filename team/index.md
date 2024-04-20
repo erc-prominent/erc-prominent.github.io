@@ -107,7 +107,7 @@ share: false
   <h4 style="text-align:center">Wenzhi Ruan</h4>
 
   <em>Involvement period:</em> 2020/02/01 - 2022/01/31 <br>
-  <em>Involvement period:</em> 2023/10/01 - 2023/09/30 <br>
+  <em>Involvement period:</em> 2022/10/01 - 2023/09/30 <br>
 
   Impulsive phase of solar flares and coronal rains in gradual phase.
 </ul>
