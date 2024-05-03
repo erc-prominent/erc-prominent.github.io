@@ -9,6 +9,7 @@ share: false
 
 | Reference | Links |
 |:--------- |:----- |
+| _Radiative loss and ion-neutral collisional effects in astrophysical plasmas_, B. Popescu Braileanu & R. Keppens, 2024, Philosophical Transactions R. Soc. A **382**, 20230217 (27pp) | [Full paper](https://doi.org/10.1098/rsta.2023.0217) [ArXiv](https://arxiv.org/pdf/2403.11900.pdf)  | 
 | _Resolved magnetohydrodynamic wave lensing in the solar corona_, X. Zhou, Y. Sheng, D. Yuan, R. Keppens, X. Zhao, L. Fu, Z. Tang, J. Wang & Ch. Zhou, 2024, Nature Communications **15**, 3281 (11pp) | [Full paper](https://doi.org/10.1038/s41467-024-46846-z) [ArXiv](https://arxiv.org/pdf/2404.12044.pdf)  | 
 | _The bright rim prominences according to 2.5D radiative transfer_, J.M. Jenkins, C.M.J. Osborne, Y. Qiu, R. Keppens & Ch. Li, 2024, ApJL **964**, L34 (7pp) | [Full paper](https://doi.org/10.3847/2041-8213/ad3423) [ArXiv](https://arxiv.org/pdf/2403.09931.pdf)  | 
 | _A spectroscopic investigation of thermal instability for cylindrical equilibria with background flow_, J. Hermans & R. Keppens, 2024, A & A  ****,  (pp) | [Full paper](https://doi.org/10.1051/0004-6361/202348337) [ArXiv](https://arxiv.org/pdf/2403.00082.pdf)  | 
