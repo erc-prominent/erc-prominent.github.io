@@ -9,6 +9,7 @@ share: false
 
 | Reference | Links |
 |:--------- |:----- |
+| _The Lorentz force at work: multiphase magnetohydrodynamics throughout a flare lifespan_, W. Ruan, R. Keppens, L. Yan & P. Antolin, 2024, ApJ **967**, 82 (15pp) | [Full paper](https://doi.org/10.3847/1538-4357/ad3915) [ArXiv](https://arxiv.org/pdf/2403.19204.pdf)  | 
 | _Radiative loss and ion-neutral collisional effects in astrophysical plasmas_, B. Popescu Braileanu & R. Keppens, 2024, Philosophical Transactions R. Soc. A **382**, 20230217 (27pp) | [Full paper](https://doi.org/10.1098/rsta.2023.0217) [ArXiv](https://arxiv.org/pdf/2403.11900.pdf)  | 
 | _Resolved magnetohydrodynamic wave lensing in the solar corona_, X. Zhou, Y. Sheng, D. Yuan, R. Keppens, X. Zhao, L. Fu, Z. Tang, J. Wang & Ch. Zhou, 2024, Nature Communications **15**, 3281 (11pp) | [Full paper](https://doi.org/10.1038/s41467-024-46846-z) [ArXiv](https://arxiv.org/pdf/2404.12044.pdf)  | 
 | _The bright rim prominences according to 2.5D radiative transfer_, J.M. Jenkins, C.M.J. Osborne, Y. Qiu, R. Keppens & Ch. Li, 2024, ApJL **964**, L34 (7pp) | [Full paper](https://doi.org/10.3847/2041-8213/ad3423) [ArXiv](https://arxiv.org/pdf/2403.09931.pdf)  | 
