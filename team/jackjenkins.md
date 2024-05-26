@@ -94,7 +94,10 @@ The associated paper can be found online at: [https://www.aanda.org/](https://ww
 <p style="text-align: center;"> ✨ Watch this space ✨ </p>
 
 ##### 2.2.3 - The Lightweaver ✨ Framework applied to `bright rim prominences'
-<p style="text-align: center;"> ✨ Watch this space ✨ </p>
+
+From the CoCo-Con 2024 conference, below is the poster on the published work available online with open access at: [https://www.iopscience.iop.org/](https://iopscience.iop.org/article/10.3847/2041-8213/ad3423/pdf).
+
+<iframe width="100%" height="800" src="{{ site.url }}/images/CoCoCon_Jenkins.pdf"></iframe>
 
 # 3. - Integration of data-driven capabilities
 Finally, a minor part of my time at KU Leuven was being spent implementing and testing the data-driven utility developed by [Fischer et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020ApJS..248....2F/abstract). This will ideally allow anyone to download, import, and run a MHD simulation based on one of the CGEM SHARP active regions available through JSOC. Current status is that we can read the CGEM data product from the JSOC servers and use this to initialise amrvac using a manual interface that passes data from python to fortran using f2py. It would be nice to automate this as much as possible.
