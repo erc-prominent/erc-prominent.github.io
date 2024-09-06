@@ -9,6 +9,7 @@ share: false
 
 | Reference | Links |
 |:--------- |:----- |
+| _Magnetic flux rope models and data-driven magnetohydrodynamic simulations of solar eruptions_, Y. Guo, J. Guo, Y. Ni, C. Xia, Z. Zhong, M. Ding, P.F. Chen & R. Keppens, 2024, Reviews of Modern Plasma Physics **8**, 29 (40pp) | [Full paper](https://doi.org/10.1007/s41614-024-00167-2)  | 
 | _Prominence and coronal rain formation by steady versus stochastic heating and how we can relate it to observations_, V. Jercic, J.M. Jenkins & R. Keppens, 2024, A & A  **688**, A145 (16pp) | [Full paper](https://doi.org/10.1051/0004-6361/202348442) [ArXiv](https://arxiv.org/pdf/2406.02955.pdf)  | 
 | _Mass cycle and dynamics of a virtual quiescent prominence_, D. Donne & R. Keppens, 2024, ApJ **971**, 90 (20pp) | [Full paper](https://doi.org/10.3847/1538-4357/ad50a3) [ArXiv](https://arxiv.org/pdf/2405.20048.pdf)  | 
 | _Parametric survey of nonaxisymmetric accretion disk instabilities: Magnetorotational instability to Super-Alfvenic Rotational Instability_, N. Brughmans, R. Keppens & H. Goedbloed, 2024, ApJ **968**, 19 (20pp) | [Full paper](https://doi.org/10.3847/1538-4357/ad3d52) [ArXiv](https://arxiv.org/pdf/2404.06925.pdf)  | 
