@@ -8,14 +8,14 @@ share: false
 
 Welcome! And thank you for taking an interest in my personal page.
 
-<img src="{{ site.url }}/images/bio-photo-JDJ.jpg" alt="My face in the prime of my life" style="float: right; padding-left: 2.5rem; width: 15rem">
+<img src="{{ site.url }}/images/bio-photo-JDJ.jpg" alt="My face" style="float: right; padding-left: 2.5rem; width: 15rem">
 
 Since joining the project as a PhD student in September 2019, I have focused on the description of waves and instabilities in three models: magnetohydrodynamics (MHD), Hall-magnetohydrodynamics (HMHD), and the ion-electron, two-fluid model. My projects include:
 1. an analytic analysis of waves in the two-fluid formalism with a focus on phase and group speed diagrams, as well as whistling behaviour.
 2. co-development of the [Legolas](https://legolas.science) code with a focus on implementing additional physics, particularly viscosity and the Hall current.
 3. a parametric study of the influence of background flow on the resistive tearing instability with [Legolas](https://legolas.science).
 
-Want to have a look at my work, or get in touch? Check out my [ORCID record](https://orcid.org/0000-0003-2443-3903) and/or [GitHub profile](https://github.com/jordidj) for more details.
+Want to have a look at my work, or get in touch? Check out [my personal page](https://jordidj.github.io), [ORCID record](https://orcid.org/0000-0003-2443-3903), and/or [GitHub profile](https://github.com/jordidj) for more details.
 
 
 
@@ -34,9 +34,10 @@ Using the same two-fluid description and group speed expressions, we showed that
 
 
 **Publications and proceedings**
-1. De Jonghe, J. & Keppens, R. (2020). A two-fluid analysis of waves in a warm ion–electron plasma. *Phys. Plasmas* **27**, 122107. [DOI: 10.1063/5.0029534](https://doi.org/10.1063/5.0029534). [arXiv: 2011.06282](https://arxiv.org/abs/2011.06282).
-2. De Jonghe, J., & Keppens, R. (2021). Two-fluid treatment of whistling behavior and the warm Appleton-Hartree extension. *J. Geophys. Res. Space Phys.* **126**, e2020JA028953. [DOI: 10.1029/2020JA028953](https://doi.org/10.1029/2020JA028953). [arXiv: 2104.05275](https://arxiv.org/abs/2104.05275).
+1. De Jonghe, J. & Keppens, R. (2020). A two-fluid analysis of waves in a warm ion–electron plasma. *Phys. Plasmas* **27**, 122107. [DOI:10.1063/5.0029534](https://doi.org/10.1063/5.0029534). [arXiv:2011.06282](https://arxiv.org/abs/2011.06282).
+2. De Jonghe, J., & Keppens, R. (2021). Two-fluid treatment of whistling behavior and the warm Appleton-Hartree extension. *J. Geophys. Res. Space Phys.* **126**, e2020JA028953. [DOI:10.1029/2020JA028953](https://doi.org/10.1029/2020JA028953). [arXiv:2104.05275](https://arxiv.org/abs/2104.05275).
 3. De Jonghe, J. & Keppens, R. (2021). Laser-induced Cherenkov radiation in a warm two-fluid model. In *47th EPS Conference on Plasma Physics, EPS 2021*, 1235–1238. [Link](http://ocs.ciemat.es/EPS2021PAP/pdf/P5.4009.pdf).
+4. De Vadder, J., De Jonghe, J. and Keppens, R. (2024). "Collisional damping of wave modes in ion-electron plasmas." *J. Plasma Phys.* **90**(4), 905900410. [DOI:10.1017/S0022377824000680](https://doi.org/10.1017/S0022377824000680). [arXiv:2405.11565](https://arxiv.org/abs/2405.11565)
 
 
 
@@ -50,11 +51,9 @@ In De Jonghe, Claes & Keppens (2022) we finally present the extension of the cod
 
 ![Comparison of a Legolas multirun of the homogeneous plasma slab with Hall current for varying wavenumber without electron inertia (left) and with electron inertia (right). The left panel without electron inertia only has the ion cyclotron resonance, whereas the right panel with electron inertia also recovers the electron cyclotron resonance.]({{ site.url }}/images/JDJ_elecinertia.png)
 
-The code is actively maintained and under continuous development by [Niels](../nielsclaes) and myself.
-
 **Publications**
-1. Claes, N., De Jonghe, J. & Keppens, R. (2020). Legolas: A modern tool for magnetohydrodynamic spectroscopy. *Astrophys. J., Suppl. Ser.* **251**, 25. [DOI: 10.3847/1538-4365/abc5c4](https://doi.org/10.3847/1538-4365/abc5c4). [arXiv: 2010.14148](https://arxiv.org/abs/2010.14148).
-2. De Jonghe, J., Claes, N. & Keppens, R. (2022). Legolas: Magnetohydrodynamic spectroscopy with viscosity and Hall current. *J. Plasma Phys.* **88** (3), 905880321. [DOI: 10.1017/S0022377822000617](https://doi.org/10.1017/S0022377822000617). [arXiv: 2206.07377](https://arxiv.org/abs/2206.07377).
+1. Claes, N., De Jonghe, J. & Keppens, R. (2020). Legolas: A modern tool for magnetohydrodynamic spectroscopy. *Astrophys. J., Suppl. Ser.* **251**, 25. [DOI:10.3847/1538-4365/abc5c4](https://doi.org/10.3847/1538-4365/abc5c4). [arXiv:2010.14148](https://arxiv.org/abs/2010.14148).
+2. De Jonghe, J., Claes, N. & Keppens, R. (2022). Legolas: Magnetohydrodynamic spectroscopy with viscosity and Hall current. *J. Plasma Phys.* **88** (3), 905880321. [DOI:10.1017/S0022377822000617](https://doi.org/10.1017/S0022377822000617). [arXiv:2206.07377](https://arxiv.org/abs/2206.07377).
 
 
 
@@ -67,8 +66,8 @@ To investigate this issue, we turn to the [Legolas](https://legolas.science) mul
 ![Legolas multiruns reveal how the tearing growth rate is affected in an intricate way by the combination of velocity coefficient and plasma-beta for a plasma slab with a direction-varying magnetic field.]({{ site.url }}/images/JDJ_v02beta.png)
 
 **Publications and proceedings**
-1. De Jonghe, J. & Keppens, R. (2023). Tearing growth rate of a viscoresistive Harris sheet subject to flow. In *49th EPS Conference on Plasma Physics, EPS 2023*. Awaiting publication.
-2. De Jonghe, J. & Keppens, R. (2023). The linear regime of the flow-sheared resistive tearing mode. Under review.
+1. De Jonghe, J. & Keppens, R. (2023). Tearing growth rate of a viscoresistive Harris sheet subject to flow. In *49th EPS Conference on Plasma Physics, EPS 2023*, O4.201. [Link](https://lac913.epfl.ch/epsppd2/2023/html/Orals/O4_201_DeJonghe.pdf)
+2. De Jonghe, J. and Keppens, R. (2024). "Modification of the resistive tearing instability with Joule heating by shear flow." *Phys. Plasmas.* **31**(3), 032106. [DOI:10.1063/5.0180535](https://doi.org/10.1063/5.0180535). [arXiv:2402.12005](https://arxiv.org/abs/2402.12005).
 
 ---
-*This page was last updated on 19 October 2023.*
+*This page was last updated on 10 December 2024.*
